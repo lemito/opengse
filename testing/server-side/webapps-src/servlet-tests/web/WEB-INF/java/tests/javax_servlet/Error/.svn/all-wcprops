@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/Error
+END
+ServletToJSPErrorPageTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/Error/ServletToJSPErrorPageTestServlet.java
+END
+ServletToJSPError502PageTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/Error/ServletToJSPError502PageTestServlet.java
+END
+ServletToHTMLErrorPageTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/Error/ServletToHTMLErrorPageTestServlet.java
+END
+ServletToServletErrorPageTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/Error/ServletToServletErrorPageTestServlet.java
+END
+ServletErrorPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/Error/ServletErrorPage.java
+END
+ServletToServletError501PageTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/Error/ServletToServletError501PageTestServlet.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/tagext/TldPathResolution/explicit
+END
+positiveRelTld.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/tagext/TldPathResolution/explicit/positiveRelTld.html
+END
+positiveDirectTldReference.html
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/tagext/TldPathResolution/explicit/positiveDirectTldReference.html
+END
+positiveRelJar.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/tagext/TldPathResolution/explicit/positiveRelJar.html
+END

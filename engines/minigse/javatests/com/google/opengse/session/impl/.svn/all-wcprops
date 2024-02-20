@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/118/trunk/engines/minigse/javatests/com/google/opengse/session/impl
+END
+HttpSessionImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/118/trunk/engines/minigse/javatests/com/google/opengse/session/impl/HttpSessionImplTest.java
+END
+ServletSessionCacheTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/118/trunk/engines/minigse/javatests/com/google/opengse/session/impl/ServletSessionCacheTest.java
+END

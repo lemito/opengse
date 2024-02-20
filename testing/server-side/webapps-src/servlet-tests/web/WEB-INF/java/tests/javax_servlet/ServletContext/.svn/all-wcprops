@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/128/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/ServletContext
+END
+GetResourceAsStreamTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/ServletContext/GetResourceAsStreamTestServlet.java
+END
+GetResourceTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/ServletContext/GetResourceTestServlet.java
+END
+ServletContextSetAttributeTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/ServletContext/ServletContextSetAttributeTestServlet.java
+END
+GetMimeTypeTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/ServletContext/GetMimeTypeTestServlet.java
+END
+GetMinorVersionTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/128/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/ServletContext/GetMinorVersionTestServlet.java
+END
+GetNamedDispatcherTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/ServletContext/GetNamedDispatcherTestServlet.java
+END
+ServletContextRemoveAttributeTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/ServletContext/ServletContextRemoveAttributeTestServlet.java
+END
+ServletContextGetAttribute_1TestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/ServletContext/ServletContextGetAttribute_1TestServlet.java
+END
+ServletContextGetContextTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/ServletContext/ServletContextGetContextTestServlet.java
+END
+ServletContextGetInitParameter_1TestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/ServletContext/ServletContextGetInitParameter_1TestServlet.java
+END
+GetRealPathTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/ServletContext/GetRealPathTestServlet.java
+END
+ServletContextGetAttributeNamesTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/ServletContext/ServletContextGetAttributeNamesTestServlet.java
+END
+ServletContextGetInitParameterNamesTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/ServletContext/ServletContextGetInitParameterNamesTestServlet.java
+END
+GetResourceAsStream_1TestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/ServletContext/GetResourceAsStream_1TestServlet.java
+END
+Log_StringTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/ServletContext/Log_StringTestServlet.java
+END
+GetResource_1TestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/ServletContext/GetResource_1TestServlet.java
+END
+ServletContextGetRequestDispatcherTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/ServletContext/ServletContextGetRequestDispatcherTestServlet.java
+END
+GetMimeType_1TestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/ServletContext/GetMimeType_1TestServlet.java
+END
+ServletContextGetAttributeTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/ServletContext/ServletContextGetAttributeTestServlet.java
+END
+ServletContextGetInitParameterTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/ServletContext/ServletContextGetInitParameterTestServlet.java
+END
+GetMajorVersionTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/ServletContext/GetMajorVersionTestServlet.java
+END
+Log_StringThrowableTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/ServletContext/Log_StringThrowableTestServlet.java
+END
+GetServerInfoTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/ServletContext/GetServerInfoTestServlet.java
+END

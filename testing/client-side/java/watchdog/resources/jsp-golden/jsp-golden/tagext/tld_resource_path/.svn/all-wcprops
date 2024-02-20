@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/jsp-golden/tagext/tld_resource_path
+END
+relative_uri.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/jsp-golden/tagext/tld_resource_path/relative_uri.html
+END
+jar_uri.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/jsp-golden/tagext/tld_resource_path/jar_uri.html
+END

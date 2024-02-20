@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/GenericServlet
+END
+DestroyTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/GenericServlet/DestroyTestServlet.java
+END
+GetServletContextTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/GenericServlet/GetServletContextTestServlet.java
+END
+GetServletConfigTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/GenericServlet/GetServletConfigTestServlet.java
+END
+GetServletInfoTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/GenericServlet/GetServletInfoTestServlet.java
+END

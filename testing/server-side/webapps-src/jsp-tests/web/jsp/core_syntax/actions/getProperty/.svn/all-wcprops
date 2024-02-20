@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/getProperty
+END
+positiveGetProps.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/getProperty/positiveGetProps.jsp
+END
+negativeGetPropObjectNotFoundException.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/getProperty/negativeGetPropObjectNotFoundException.jsp
+END
+negativeGetPropObjectNotFoundExceptionXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/getProperty/negativeGetPropObjectNotFoundExceptionXML.jsp
+END
+positiveGetPropsXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/getProperty/positiveGetPropsXML.jsp
+END

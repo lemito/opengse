@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet_http/HttpSessionBindingListener
+END
+HttpSessionValueBoundTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet_http/HttpSessionBindingListener/HttpSessionValueBoundTest.html
+END
+HttpSessionValueUnBoundTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet_http/HttpSessionBindingListener/HttpSessionValueUnBoundTest.html
+END

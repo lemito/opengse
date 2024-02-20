@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/195/trunk/engines/minigse/examples/lib
+END
+guice-snapshot-src.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/195/trunk/engines/minigse/examples/lib/guice-snapshot-src.jar
+END
+guice-servlet-snapshot-src.jar
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/195/trunk/engines/minigse/examples/lib/guice-servlet-snapshot-src.jar
+END
+guice-snapshot.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/195/trunk/engines/minigse/examples/lib/guice-snapshot.jar
+END
+guice-servlet-snapshot.jar
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/195/trunk/engines/minigse/examples/lib/guice-servlet-snapshot.jar
+END

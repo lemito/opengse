@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/core_syntax/scripting/scriptlet
+END
+positiveScriptletMultiline.html
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/core_syntax/scripting/scriptlet/positiveScriptletMultiline.html
+END
+positiveScriptletComment.html
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/core_syntax/scripting/scriptlet/positiveScriptletComment.html
+END
+positiveScriptletUseBean.html
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/core_syntax/scripting/scriptlet/positiveScriptletUseBean.html
+END
+positiveScriptletMultiline2.html
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/core_syntax/scripting/scriptlet/positiveScriptletMultiline2.html
+END
+positiveScriptletLiteral.html
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/core_syntax/scripting/scriptlet/positiveScriptletLiteral.html
+END
+positiveScriptlet.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/core_syntax/scripting/scriptlet/positiveScriptlet.html
+END

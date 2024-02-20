@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/directives/page/imports
+END
+implicitImportJsp.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/directives/page/imports/implicitImportJsp.jsp
+END
+implicitImportHttpXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/directives/page/imports/implicitImportHttpXML.jsp
+END
+implicitImportLangXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/directives/page/imports/implicitImportLangXML.jsp
+END
+positiveMultipleImportXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/directives/page/imports/positiveMultipleImportXML.jsp
+END
+implicitXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/directives/page/imports/implicitXML.jsp
+END
+implicitImportServletXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/directives/page/imports/implicitImportServletXML.jsp
+END
+positiveImport.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/directives/page/imports/positiveImport.jsp
+END
+negativeImport.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/directives/page/imports/negativeImport.jsp
+END
+implicitImportJspXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/directives/page/imports/implicitImportJspXML.jsp
+END
+implicitImportHttp.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/directives/page/imports/implicitImportHttp.jsp
+END
+implicitImportLang.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/directives/page/imports/implicitImportLang.jsp
+END
+positiveMultipleImport.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/directives/page/imports/positiveMultipleImport.jsp
+END
+implicitImportServlet.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/directives/page/imports/implicitImportServlet.jsp
+END
+implicit.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/directives/page/imports/implicit.jsp
+END
+positiveImportXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/directives/page/imports/positiveImportXML.jsp
+END
+negativeImportXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/directives/page/imports/negativeImportXML.jsp
+END

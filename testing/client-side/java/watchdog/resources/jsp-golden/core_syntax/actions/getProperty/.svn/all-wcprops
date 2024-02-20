@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/core_syntax/actions/getProperty
+END
+positiveGetProps.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/core_syntax/actions/getProperty/positiveGetProps.html
+END
+negativeGetPropObjectNotFoundException.html
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/core_syntax/actions/getProperty/negativeGetPropObjectNotFoundException.html
+END

@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/forward
+END
+positiveForwardPageRelative.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/forward/positiveForwardPageRelative.jsp
+END
+positiveRequestAttrPageRelativeXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/forward/positiveRequestAttrPageRelativeXML.jsp
+END
+positiveRequestAttrCtxRelative.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/forward/positiveRequestAttrCtxRelative.jsp
+END
+positiveForwardCtxRelativeXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/forward/positiveForwardCtxRelativeXML.jsp
+END
+forwardcommon.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/forward/forwardcommon.html
+END
+positiveForwardPageRelativeHtmlXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/forward/positiveForwardPageRelativeHtmlXML.jsp
+END
+positiveForwardCtxRelativeHtml.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/forward/positiveForwardCtxRelativeHtml.jsp
+END
+forwardcommonXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/forward/forwardcommonXML.jsp
+END
+positiveRequestAttrPageRelative.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/forward/positiveRequestAttrPageRelative.jsp
+END
+positiveForwardPageRelativeXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/forward/positiveForwardPageRelativeXML.jsp
+END
+positiveForwardCtxRelative.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/forward/positiveForwardCtxRelative.jsp
+END
+positiveRequestAttrCtxRelativeXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/forward/positiveRequestAttrCtxRelativeXML.jsp
+END
+positiveForwardPageRelativeHtml.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/forward/positiveForwardPageRelativeHtml.jsp
+END
+positiveForwardCtxRelativeHtmlXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/forward/positiveForwardCtxRelativeHtmlXML.jsp
+END
+forwardcommon.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/forward/forwardcommon.jsp
+END

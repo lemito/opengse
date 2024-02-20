@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/JspWriter/misc
+END
+negativeCloseXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/JspWriter/misc/negativeCloseXML.jsp
+END
+positiveClear.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/JspWriter/misc/positiveClear.jsp
+END
+positiveCloseXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/JspWriter/misc/positiveCloseXML.jsp
+END
+positiveIsAutoFlushXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/JspWriter/misc/positiveIsAutoFlushXML.jsp
+END
+closeValidator.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/JspWriter/misc/closeValidator.jsp
+END
+positiveGetRemainingXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/JspWriter/misc/positiveGetRemainingXML.jsp
+END
+positiveGetBufferSizeUnBufferedXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/JspWriter/misc/positiveGetBufferSizeUnBufferedXML.jsp
+END
+negativeClearUnbuffered.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/JspWriter/misc/negativeClearUnbuffered.jsp
+END
+negativeClearIOExprXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/JspWriter/misc/negativeClearIOExprXML.jsp
+END
+initializer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/JspWriter/misc/initializer.jsp
+END
+positiveNewLine.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/JspWriter/misc/positiveNewLine.jsp
+END
+positiveFlushXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/JspWriter/misc/positiveFlushXML.jsp
+END
+negativeFlushXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/JspWriter/misc/negativeFlushXML.jsp
+END
+positiveGetRemainingBufferUnsetXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/JspWriter/misc/positiveGetRemainingBufferUnsetXML.jsp
+END
+positiveGetBufferSize.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/JspWriter/misc/positiveGetBufferSize.jsp
+END
+negativeClose.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/JspWriter/misc/negativeClose.jsp
+END
+positiveClose.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/JspWriter/misc/positiveClose.jsp
+END
+positiveIsAutoFlush.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/JspWriter/misc/positiveIsAutoFlush.jsp
+END
+positiveClearXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/JspWriter/misc/positiveClearXML.jsp
+END
+closeValidatorXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/JspWriter/misc/closeValidatorXML.jsp
+END
+positiveGetRemaining.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/JspWriter/misc/positiveGetRemaining.jsp
+END
+positiveGetBufferSizeUnBuffered.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/JspWriter/misc/positiveGetBufferSizeUnBuffered.jsp
+END
+negativeClearUnbufferedXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/JspWriter/misc/negativeClearUnbufferedXML.jsp
+END
+negativeClearIOExpr.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/JspWriter/misc/negativeClearIOExpr.jsp
+END
+positiveFlush.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/JspWriter/misc/positiveFlush.jsp
+END
+negativeFlush.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/JspWriter/misc/negativeFlush.jsp
+END
+initializerXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/JspWriter/misc/initializerXML.jsp
+END
+positiveGetRemainingBufferUnset.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/JspWriter/misc/positiveGetRemainingBufferUnset.jsp
+END
+positiveNewLineXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/JspWriter/misc/positiveNewLineXML.jsp
+END
+positiveGetBufferSizeXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/JspWriter/misc/positiveGetBufferSizeXML.jsp
+END

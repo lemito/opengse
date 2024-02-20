@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/tagext/BodyTagSupport
+END
+positiveDoInitBody.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/tagext/BodyTagSupport/positiveDoInitBody.html
+END
+positiveDoEndTag.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/tagext/BodyTagSupport/positiveDoEndTag.html
+END
+positiveLifeCycle.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/tagext/BodyTagSupport/positiveLifeCycle.html
+END
+positiveRelease.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/tagext/BodyTagSupport/positiveRelease.html
+END
+positiveDoAfterBody.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/tagext/BodyTagSupport/positiveDoAfterBody.html
+END

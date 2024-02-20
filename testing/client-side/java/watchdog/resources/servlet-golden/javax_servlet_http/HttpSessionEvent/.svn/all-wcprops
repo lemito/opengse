@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet_http/HttpSessionEvent
+END
+HttpSessionEventGetSourceTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet_http/HttpSessionEvent/HttpSessionEventGetSourceTest.html
+END
+HttpSessionEventGetSessionTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet_http/HttpSessionEvent/HttpSessionEventGetSessionTest.html
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet_http/HttpSessionListener
+END
+HttpSessionDestroyedTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet_http/HttpSessionListener/HttpSessionDestroyedTestServlet.java
+END
+HSListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet_http/HttpSessionListener/HSListener.java
+END
+HttpSessionCreatedTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet_http/HttpSessionListener/HttpSessionCreatedTestServlet.java
+END

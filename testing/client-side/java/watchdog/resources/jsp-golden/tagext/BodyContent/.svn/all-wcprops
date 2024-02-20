@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/tagext/BodyContent
+END
+positiveGetString.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/tagext/BodyContent/positiveGetString.html
+END
+positiveGetEnclosingWriter.html
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/tagext/BodyContent/positiveGetEnclosingWriter.html
+END
+positiveGetReader.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/tagext/BodyContent/positiveGetReader.html
+END

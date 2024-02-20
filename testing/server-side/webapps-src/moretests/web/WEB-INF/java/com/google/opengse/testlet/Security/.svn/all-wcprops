@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/93/trunk/testing/server-side/webapps-src/moretests/web/WEB-INF/java/com/google/opengse/testlet/Security
+END
+ServletSecurityRoleTestlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/93/trunk/testing/server-side/webapps-src/moretests/web/WEB-INF/java/com/google/opengse/testlet/Security/ServletSecurityRoleTestlet.java
+END

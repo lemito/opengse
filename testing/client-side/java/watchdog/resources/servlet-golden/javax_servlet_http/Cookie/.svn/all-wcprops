@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet_http/Cookie
+END
+SetVersionTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet_http/Cookie/SetVersionTest.html
+END
+GetComment_01Test.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet_http/Cookie/GetComment_01Test.html
+END
+GetMaxAgeTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet_http/Cookie/GetMaxAgeTest.html
+END
+SetSecureTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet_http/Cookie/SetSecureTest.html
+END
+GetCommentTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet_http/Cookie/GetCommentTest.html
+END
+GetDomainTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet_http/Cookie/GetDomainTest.html
+END
+SetPathTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet_http/Cookie/SetPathTest.html
+END
+GetValueTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet_http/Cookie/GetValueTest.html
+END
+SetMaxAgeTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet_http/Cookie/SetMaxAgeTest.html
+END
+SetCommentTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet_http/Cookie/SetCommentTest.html
+END
+Cookie_ConstructorTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet_http/Cookie/Cookie_ConstructorTest.html
+END
+GetNameTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet_http/Cookie/GetNameTest.html
+END
+GetMaxAge_1Test.html
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet_http/Cookie/GetMaxAge_1Test.html
+END
+SetDomainTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet_http/Cookie/SetDomainTest.html
+END
+GetVersionTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet_http/Cookie/GetVersionTest.html
+END
+GetSecureTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet_http/Cookie/GetSecureTest.html
+END
+SetValueTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet_http/Cookie/SetValueTest.html
+END
+CookieCloneTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet_http/Cookie/CookieCloneTest.html
+END
+GetPathTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet_http/Cookie/GetPathTest.html
+END
+Cookie_Constructor_1Test.html
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet_http/Cookie/Cookie_Constructor_1Test.html
+END

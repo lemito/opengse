@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/176/trunk/testing/server-side/webapps-src/moretests/web/WEB-INF/java/com/google/opengse/testlet/Filter
+END
+WildcardServletDispatchFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/161/trunk/testing/server-side/webapps-src/moretests/web/WEB-INF/java/com/google/opengse/testlet/Filter/WildcardServletDispatchFilter.java
+END
+MixedMatchingFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/moretests/web/WEB-INF/java/com/google/opengse/testlet/Filter/MixedMatchingFilter.java
+END
+ServletIncludeFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/moretests/web/WEB-INF/java/com/google/opengse/testlet/Filter/ServletIncludeFilter.java
+END
+DispatcherIncludeServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/moretests/web/WEB-INF/java/com/google/opengse/testlet/Filter/DispatcherIncludeServlet.java
+END
+WildcardFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/176/trunk/testing/server-side/webapps-src/moretests/web/WEB-INF/java/com/google/opengse/testlet/Filter/WildcardFilter.java
+END
+DispatcherFilterTestlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/moretests/web/WEB-INF/java/com/google/opengse/testlet/Filter/DispatcherFilterTestlet.java
+END
+ServletRequestFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/moretests/web/WEB-INF/java/com/google/opengse/testlet/Filter/ServletRequestFilter.java
+END
+ServletErrorFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/moretests/web/WEB-INF/java/com/google/opengse/testlet/Filter/ServletErrorFilter.java
+END
+Error599Servlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/moretests/web/WEB-INF/java/com/google/opengse/testlet/Filter/Error599Servlet.java
+END
+FilterOrder1Testlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/moretests/web/WEB-INF/java/com/google/opengse/testlet/Filter/FilterOrder1Testlet.java
+END
+FilterOrder2Testlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/moretests/web/WEB-INF/java/com/google/opengse/testlet/Filter/FilterOrder2Testlet.java
+END
+FilterOrder1Filter.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/moretests/web/WEB-INF/java/com/google/opengse/testlet/Filter/FilterOrder1Filter.java
+END
+FilterOrder2Filter.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/moretests/web/WEB-INF/java/com/google/opengse/testlet/Filter/FilterOrder2Filter.java
+END
+ServletForwardFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/moretests/web/WEB-INF/java/com/google/opengse/testlet/Filter/ServletForwardFilter.java
+END
+DispatcherForwardServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/moretests/web/WEB-INF/java/com/google/opengse/testlet/Filter/DispatcherForwardServlet.java
+END

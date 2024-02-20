@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/tagext/LifeCycle/LifeCycle
+END
+tag_ignoreBody.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/tagext/LifeCycle/LifeCycle/tag_ignoreBody.html
+END
+tag_check_BodyContent_1.html
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/tagext/LifeCycle/LifeCycle/tag_check_BodyContent_1.html
+END
+tag_check_BodyContent_3.html
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/tagext/LifeCycle/LifeCycle/tag_check_BodyContent_3.html
+END
+tag_attr_setting_1.html
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/tagext/LifeCycle/LifeCycle/tag_attr_setting_1.html
+END
+tag_doStart_eval_body_include.html
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/tagext/LifeCycle/LifeCycle/tag_doStart_eval_body_include.html
+END
+tag_attr_setting_3.html
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/tagext/LifeCycle/LifeCycle/tag_attr_setting_3.html
+END

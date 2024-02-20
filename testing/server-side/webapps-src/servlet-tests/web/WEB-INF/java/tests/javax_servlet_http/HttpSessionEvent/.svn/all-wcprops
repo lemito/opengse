@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet_http/HttpSessionEvent
+END
+HttpSessionEventGetSourceTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet_http/HttpSessionEvent/HttpSessionEventGetSourceTestServlet.java
+END
+HSEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet_http/HttpSessionEvent/HSEvent.java
+END
+HttpSessionEventGetSessionTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet_http/HttpSessionEvent/HttpSessionEventGetSessionTestServlet.java
+END

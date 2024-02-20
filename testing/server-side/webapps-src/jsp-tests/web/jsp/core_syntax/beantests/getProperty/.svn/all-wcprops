@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/beantests/getProperty
+END
+negativeGetPropNotRead.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/beantests/getProperty/negativeGetPropNotRead.jsp
+END
+negativeGetPropNotReadXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/beantests/getProperty/negativeGetPropNotReadXML.jsp
+END
+negativeGetProps.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/beantests/getProperty/negativeGetProps.jsp
+END
+positiveGetProps.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/beantests/getProperty/positiveGetProps.jsp
+END
+positiveGetPropsXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/beantests/getProperty/positiveGetPropsXML.jsp
+END
+negativeGetPropsXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/beantests/getProperty/negativeGetPropsXML.jsp
+END
+negativeGetPropNotProperty.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/beantests/getProperty/negativeGetPropNotProperty.jsp
+END
+negativeGetPropNotPropertyXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/beantests/getProperty/negativeGetPropNotPropertyXML.jsp
+END

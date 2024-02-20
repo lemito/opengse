@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/UnavailableException
+END
+GetUnavailableSecondsTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/UnavailableException/GetUnavailableSecondsTestServlet.java
+END
+IsPermanentTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/UnavailableException/IsPermanentTestServlet.java
+END
+UnavailableException_Constructor1TestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/UnavailableException/UnavailableException_Constructor1TestServlet.java
+END
+UnavailableException_Constructor2TestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/UnavailableException/UnavailableException_Constructor2TestServlet.java
+END

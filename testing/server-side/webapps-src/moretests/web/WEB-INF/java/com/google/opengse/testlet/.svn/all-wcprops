@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/176/trunk/testing/server-side/webapps-src/moretests/web/WEB-INF/java/com/google/opengse/testlet
+END
+HeaderTestlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/moretests/web/WEB-INF/java/com/google/opengse/testlet/HeaderTestlet.java
+END
+TestHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/moretests/web/WEB-INF/java/com/google/opengse/testlet/TestHelper.java
+END
+ForwardToFooTestlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/moretests/web/WEB-INF/java/com/google/opengse/testlet/ForwardToFooTestlet.java
+END
+URITestlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/moretests/web/WEB-INF/java/com/google/opengse/testlet/URITestlet.java
+END
+ForwardTestlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/147/trunk/testing/server-side/webapps-src/moretests/web/WEB-INF/java/com/google/opengse/testlet/ForwardTestlet.java
+END

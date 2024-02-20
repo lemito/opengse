@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/RequestDispatcher
+END
+ForwardedServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/RequestDispatcher/ForwardedServlet.java
+END
+Include_1TestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/RequestDispatcher/Include_1TestServlet.java
+END
+IncludeTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/RequestDispatcher/IncludeTestServlet.java
+END
+Forward_1TestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/RequestDispatcher/Forward_1TestServlet.java
+END
+ForwardTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/RequestDispatcher/ForwardTestServlet.java
+END
+IncludedServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/RequestDispatcher/IncludedServlet.java
+END

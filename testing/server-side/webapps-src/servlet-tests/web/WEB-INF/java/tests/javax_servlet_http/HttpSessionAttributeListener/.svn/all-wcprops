@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet_http/HttpSessionAttributeListener
+END
+HttpSessionAttributeReplacedTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet_http/HttpSessionAttributeListener/HttpSessionAttributeReplacedTestServlet.java
+END
+HttpSessionAttributeRemovedTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet_http/HttpSessionAttributeListener/HttpSessionAttributeRemovedTestServlet.java
+END
+HttpSessionAttributeAddedTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet_http/HttpSessionAttributeListener/HttpSessionAttributeAddedTestServlet.java
+END
+HSAttributeListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet_http/HttpSessionAttributeListener/HSAttributeListener.java
+END

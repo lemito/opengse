@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/misc/precompilation
+END
+precompile.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/misc/precompilation/precompile.jsp
+END
+precompileXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/misc/precompilation/precompileXML.jsp
+END

@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/tagext/TagSupport
+END
+positiveSetValue.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/tagext/TagSupport/positiveSetValue.jsp
+END
+positiveGetParent.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/tagext/TagSupport/positiveGetParent.jsp
+END
+positiveSetGetIdXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/tagext/TagSupport/positiveSetGetIdXML.jsp
+END
+positiveRemoveValue.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/tagext/TagSupport/positiveRemoveValue.jsp
+END
+positiveSetPageContext.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/tagext/TagSupport/positiveSetPageContext.jsp
+END
+positiveDoStartTagXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/tagext/TagSupport/positiveDoStartTagXML.jsp
+END
+positiveGetValueXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/tagext/TagSupport/positiveGetValueXML.jsp
+END
+positiveGetValues.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/tagext/TagSupport/positiveGetValues.jsp
+END
+default_return_valuesXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/tagext/TagSupport/default_return_valuesXML.jsp
+END
+positivefindAncestorWithClass.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/tagext/TagSupport/positivefindAncestorWithClass.jsp
+END
+positiveDoAfterBody.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/tagext/TagSupport/positiveDoAfterBody.jsp
+END
+positiveDoEndTagXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/tagext/TagSupport/positiveDoEndTagXML.jsp
+END
+positiveSetGetId.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/tagext/TagSupport/positiveSetGetId.jsp
+END
+positiveSetValueXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/tagext/TagSupport/positiveSetValueXML.jsp
+END
+positiveGetParentXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/tagext/TagSupport/positiveGetParentXML.jsp
+END
+positiveRemoveValueXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/tagext/TagSupport/positiveRemoveValueXML.jsp
+END
+positiveGetValue.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/tagext/TagSupport/positiveGetValue.jsp
+END
+positiveDoStartTag.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/tagext/TagSupport/positiveDoStartTag.jsp
+END
+positiveSetPageContextXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/tagext/TagSupport/positiveSetPageContextXML.jsp
+END
+default_return_values.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/tagext/TagSupport/default_return_values.jsp
+END
+positiveGetValuesXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/tagext/TagSupport/positiveGetValuesXML.jsp
+END
+positivefindAncestorWithClassXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/tagext/TagSupport/positivefindAncestorWithClassXML.jsp
+END
+positiveDoAfterBodyXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/tagext/TagSupport/positiveDoAfterBodyXML.jsp
+END
+positiveDoEndTag.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/tagext/TagSupport/positiveDoEndTag.jsp
+END

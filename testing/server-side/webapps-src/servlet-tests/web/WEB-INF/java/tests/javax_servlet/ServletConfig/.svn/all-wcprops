@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/ServletConfig
+END
+GetServletConfigInitParameterTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/ServletConfig/GetServletConfigInitParameterTestServlet.java
+END
+GetServletConfigInitParameter_1TestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/ServletConfig/GetServletConfigInitParameter_1TestServlet.java
+END
+GetServletConfigInitParameterNamesTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/ServletConfig/GetServletConfigInitParameterNamesTestServlet.java
+END
+GetServletConfigInitParameterNames_1TestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/ServletConfig/GetServletConfigInitParameterNames_1TestServlet.java
+END
+ServletConfigGetServletContextTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/ServletConfig/ServletConfigGetServletContextTestServlet.java
+END
+GetServletNameTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/ServletConfig/GetServletNameTestServlet.java
+END

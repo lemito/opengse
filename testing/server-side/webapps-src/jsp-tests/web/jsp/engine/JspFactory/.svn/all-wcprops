@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/JspFactory
+END
+positiveSetDefaultFactory.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/JspFactory/positiveSetDefaultFactory.jsp
+END
+positiveSetDefaultFactoryXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/JspFactory/positiveSetDefaultFactoryXML.jsp
+END
+positiveGetDefaultFactory.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/JspFactory/positiveGetDefaultFactory.jsp
+END
+positiveGetDefaultFactoryXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/JspFactory/positiveGetDefaultFactoryXML.jsp
+END
+positiveGetPageContext.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/JspFactory/positiveGetPageContext.jsp
+END
+positiveGetPageContextXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/JspFactory/positiveGetPageContextXML.jsp
+END
+positiveReleasePageContext.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/JspFactory/positiveReleasePageContext.jsp
+END
+positiveReleasePageContextXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/JspFactory/positiveReleasePageContextXML.jsp
+END

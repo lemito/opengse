@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/core_syntax/directives/page/buffer
+END
+negativeBufferOverflowException.html
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/core_syntax/directives/page/buffer/negativeBufferOverflowException.html
+END

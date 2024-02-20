@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet_http/HttpSession
+END
+HttpSessionGetAttributeNames_01Test.html
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet_http/HttpSession/HttpSessionGetAttributeNames_01Test.html
+END
+HttpSessionGetAttributeNamesTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet_http/HttpSession/HttpSessionGetAttributeNamesTest.html
+END
+GetIdTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet_http/HttpSession/GetIdTest.html
+END
+HttpSessionGetServletContextTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet_http/HttpSession/HttpSessionGetServletContextTest.html
+END
+HttpSessionGetAttribute_01Test.html
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet_http/HttpSession/HttpSessionGetAttribute_01Test.html
+END
+HttpSessionGetAttributeTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet_http/HttpSession/HttpSessionGetAttributeTest.html
+END
+HttpSessionGetAttributeNamesEmptyTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet_http/HttpSession/HttpSessionGetAttributeNamesEmptyTest.html
+END
+GetLastAccessedTimeTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet_http/HttpSession/GetLastAccessedTimeTest.html
+END
+GetMaxInactiveIntervalTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet_http/HttpSession/GetMaxInactiveIntervalTest.html
+END
+SetAttribute_01Test.html
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet_http/HttpSession/SetAttribute_01Test.html
+END
+SetAttributeTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet_http/HttpSession/SetAttributeTest.html
+END
+InvalidateTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet_http/HttpSession/InvalidateTest.html
+END
+RemoveAttributeTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet_http/HttpSession/RemoveAttributeTest.html
+END
+RemoveAttribute_01Test.html
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet_http/HttpSession/RemoveAttribute_01Test.html
+END
+GetCreationTimeTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet_http/HttpSession/GetCreationTimeTest.html
+END
+IsNew_01Test.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet_http/HttpSession/IsNew_01Test.html
+END
+IsNewTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet_http/HttpSession/IsNewTest.html
+END
+SetMaxInactiveIntervalTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet_http/HttpSession/SetMaxInactiveIntervalTest.html
+END

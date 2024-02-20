@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/compat
+END
+WithLeadingSlashTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/compat/WithLeadingSlashTest.html
+END
+WithoutLeadingSlashTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/compat/WithoutLeadingSlashTest.html
+END

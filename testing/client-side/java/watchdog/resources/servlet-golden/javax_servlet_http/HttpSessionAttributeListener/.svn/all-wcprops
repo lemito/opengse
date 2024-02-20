@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet_http/HttpSessionAttributeListener
+END
+HttpSessionAttributeReplacedTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet_http/HttpSessionAttributeListener/HttpSessionAttributeReplacedTest.html
+END
+HttpSessionAttributeRemovedTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet_http/HttpSessionAttributeListener/HttpSessionAttributeRemovedTest.html
+END
+HttpSessionAttributeAddedTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet_http/HttpSessionAttributeListener/HttpSessionAttributeAddedTest.html
+END

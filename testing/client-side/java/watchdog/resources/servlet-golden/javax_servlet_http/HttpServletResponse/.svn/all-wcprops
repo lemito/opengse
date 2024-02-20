@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet_http/HttpServletResponse
+END
+SendRedirect_1Test.html
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet_http/HttpServletResponse/SendRedirect_1Test.html
+END
+SendRedirectTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet_http/HttpServletResponse/SendRedirectTest.html
+END
+AddCookieTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet_http/HttpServletResponse/AddCookieTest.html
+END
+GetCreationTimeTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet_http/HttpServletResponse/GetCreationTimeTest.html
+END
+ContainsHeaderTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet_http/HttpServletResponse/ContainsHeaderTest.html
+END
+ContainsHeader_01Test.html
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet_http/HttpServletResponse/ContainsHeader_01Test.html
+END

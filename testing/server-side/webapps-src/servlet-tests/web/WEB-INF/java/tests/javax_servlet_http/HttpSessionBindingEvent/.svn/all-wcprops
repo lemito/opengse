@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet_http/HttpSessionBindingEvent
+END
+HttpSessionBindingEventAddedTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet_http/HttpSessionBindingEvent/HttpSessionBindingEventAddedTestServlet.java
+END
+HSBindingEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet_http/HttpSessionBindingEvent/HSBindingEvent.java
+END
+HttpSessionBindingEventRemovedTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet_http/HttpSessionBindingEvent/HttpSessionBindingEventRemovedTestServlet.java
+END
+HttpSessionBindingEventConstructor1TestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet_http/HttpSessionBindingEvent/HttpSessionBindingEventConstructor1TestServlet.java
+END
+HttpSessionBindingEventConstructor2TestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet_http/HttpSessionBindingEvent/HttpSessionBindingEventConstructor2TestServlet.java
+END
+HttpSessionBindingEventReplacedTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet_http/HttpSessionBindingEvent/HttpSessionBindingEventReplacedTestServlet.java
+END

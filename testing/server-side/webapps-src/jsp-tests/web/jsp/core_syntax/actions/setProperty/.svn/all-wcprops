@@ -1,0 +1,281 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/setProperty
+END
+positiveSetBooleanObj.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/setProperty/positiveSetBooleanObj.jsp
+END
+positiveSetLongObjXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/setProperty/positiveSetLongObjXML.jsp
+END
+positiveSetBytePrimXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/setProperty/positiveSetBytePrimXML.jsp
+END
+positiveSetPropValue.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/setProperty/positiveSetPropValue.jsp
+END
+positiveSetFloatPrimXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/setProperty/positiveSetFloatPrimXML.jsp
+END
+positiveSetByteObjXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/setProperty/positiveSetByteObjXML.jsp
+END
+positiveSetPropNoParamXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/setProperty/positiveSetPropNoParamXML.jsp
+END
+positiveSetFloatObjXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/setProperty/positiveSetFloatObjXML.jsp
+END
+positiveSetIntPrim.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/setProperty/positiveSetIntPrim.jsp
+END
+positiveSetPropParamXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/setProperty/positiveSetPropParamXML.jsp
+END
+positiveSetDoublePrimXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/setProperty/positiveSetDoublePrimXML.jsp
+END
+positiveSetIntObj.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/setProperty/positiveSetIntObj.jsp
+END
+Errorpage.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/setProperty/Errorpage.jsp
+END
+positiveSetLongObj.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/setProperty/positiveSetLongObj.jsp
+END
+positiveSetPropReqTimeSingleQuotesXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/setProperty/positiveSetPropReqTimeSingleQuotesXML.jsp
+END
+positiveSetByteObj.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/setProperty/positiveSetByteObj.jsp
+END
+positiveSetPropNoParam.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/setProperty/positiveSetPropNoParam.jsp
+END
+positiveSetPropValueXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/setProperty/positiveSetPropValueXML.jsp
+END
+positiveSetFloatObj.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/setProperty/positiveSetFloatObj.jsp
+END
+positiveSetDoublePrim.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/setProperty/positiveSetDoublePrim.jsp
+END
+positiveSetPropReqTimeDoubleQuotes.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/setProperty/positiveSetPropReqTimeDoubleQuotes.jsp
+END
+positiveSetCharPrim.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/setProperty/positiveSetCharPrim.jsp
+END
+positiveSetDoubleObj.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/setProperty/positiveSetDoubleObj.jsp
+END
+positiveBeanPropertyEditor.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/setProperty/positiveBeanPropertyEditor.jsp
+END
+positiveSetIntObjXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/setProperty/positiveSetIntObjXML.jsp
+END
+positiveSetBooleanPrim.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/setProperty/positiveSetBooleanPrim.jsp
+END
+ErrorpageXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/setProperty/ErrorpageXML.jsp
+END
+positiveSetPropAll.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/setProperty/positiveSetPropAll.jsp
+END
+positiveSetPropReqTimeSingleQuotes.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/setProperty/positiveSetPropReqTimeSingleQuotes.jsp
+END
+positiveSetIndexedProp.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/setProperty/positiveSetIndexedProp.jsp
+END
+positiveSetPropReqTimeDoubleQuotesXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/setProperty/positiveSetPropReqTimeDoubleQuotesXML.jsp
+END
+positiveSetDoubleObjXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/setProperty/positiveSetDoubleObjXML.jsp
+END
+positiveBeanPropertyEditorXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/setProperty/positiveBeanPropertyEditorXML.jsp
+END
+positiveSetCharPrimXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/setProperty/positiveSetCharPrimXML.jsp
+END
+positiveSetLongPrim.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/setProperty/positiveSetLongPrim.jsp
+END
+positiveSetBooleanPrimXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/setProperty/positiveSetBooleanPrimXML.jsp
+END
+positiveSetCharObjXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/setProperty/positiveSetCharObjXML.jsp
+END
+positiveSetPropAllXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/setProperty/positiveSetPropAllXML.jsp
+END
+positiveSetBytePrim.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/setProperty/positiveSetBytePrim.jsp
+END
+positiveSetBooleanObjXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/setProperty/positiveSetBooleanObjXML.jsp
+END
+positiveSetFloatPrim.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/setProperty/positiveSetFloatPrim.jsp
+END
+positiveSetPropParam.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/setProperty/positiveSetPropParam.jsp
+END
+positiveSetIndexedPropXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/setProperty/positiveSetIndexedPropXML.jsp
+END
+positiveSetIntPrimXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/setProperty/positiveSetIntPrimXML.jsp
+END
+positiveSetCharObj.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/setProperty/positiveSetCharObj.jsp
+END
+positiveSetLongPrimXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/setProperty/positiveSetLongPrimXML.jsp
+END

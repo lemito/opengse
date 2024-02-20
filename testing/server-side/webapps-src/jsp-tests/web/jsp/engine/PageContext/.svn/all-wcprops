@@ -1,0 +1,317 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/PageContext
+END
+positiveGetAttributeScope.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/PageContext/positiveGetAttributeScope.jsp
+END
+checkGetServlet.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/PageContext/checkGetServlet.jsp
+END
+positiveSetAttributeXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/PageContext/positiveSetAttributeXML.jsp
+END
+positiveSetAttributeInScope.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/PageContext/positiveSetAttributeInScope.jsp
+END
+negativeRemoveAttributeXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/PageContext/negativeRemoveAttributeXML.jsp
+END
+checkGetOutXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/PageContext/checkGetOutXML.jsp
+END
+positiveForward.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/PageContext/positiveForward.jsp
+END
+negativeIncludeXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/PageContext/negativeIncludeXML.jsp
+END
+checkGetServletConfigXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/PageContext/checkGetServletConfigXML.jsp
+END
+positiveGetAttributeNamesInScope.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/PageContext/positiveGetAttributeNamesInScope.jsp
+END
+checkGetResponse.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/PageContext/checkGetResponse.jsp
+END
+checkGetException.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/PageContext/checkGetException.jsp
+END
+negativeForwardIllegalArgXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/PageContext/negativeForwardIllegalArgXML.jsp
+END
+positiveGetAttributeNotAvblXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/PageContext/positiveGetAttributeNotAvblXML.jsp
+END
+positivePopBody.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/PageContext/positivePopBody.jsp
+END
+positivePushBodyXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/PageContext/positivePushBodyXML.jsp
+END
+positiveSetAttribute.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/PageContext/positiveSetAttribute.jsp
+END
+negativeForwardIllegalStateXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/PageContext/negativeForwardIllegalStateXML.jsp
+END
+positiveSetAttributeInScopeXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/PageContext/positiveSetAttributeInScopeXML.jsp
+END
+negativeRemoveAttribute.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/PageContext/negativeRemoveAttribute.jsp
+END
+forGetException.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/PageContext/forGetException.jsp
+END
+negativeInclude.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/PageContext/negativeInclude.jsp
+END
+checkGetRequestXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/PageContext/checkGetRequestXML.jsp
+END
+checkGetServletConfig.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/PageContext/checkGetServletConfig.jsp
+END
+positiveForwardXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/PageContext/positiveForwardXML.jsp
+END
+positiveGetAttributeNamesInScopeXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/PageContext/positiveGetAttributeNamesInScopeXML.jsp
+END
+positiveGetAttributeNotAvbl.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/PageContext/positiveGetAttributeNotAvbl.jsp
+END
+positivePushBody.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/PageContext/positivePushBody.jsp
+END
+positivePopBodyXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/PageContext/positivePopBodyXML.jsp
+END
+checkGetSession.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/PageContext/checkGetSession.jsp
+END
+negativeForwardIllegalState.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/PageContext/negativeForwardIllegalState.jsp
+END
+include.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/PageContext/include.jsp
+END
+positiveRemoveAttributeXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/PageContext/positiveRemoveAttributeXML.jsp
+END
+forwardXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/PageContext/forwardXML.jsp
+END
+forGetExceptionXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/PageContext/forGetExceptionXML.jsp
+END
+checkGetRequest.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/PageContext/checkGetRequest.jsp
+END
+positiveIncludeXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/PageContext/positiveIncludeXML.jsp
+END
+checkGetServletContext.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/PageContext/checkGetServletContext.jsp
+END
+positiveGetAttributeAvbl.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/PageContext/positiveGetAttributeAvbl.jsp
+END
+positiveGetAttributeScopeXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/PageContext/positiveGetAttributeScopeXML.jsp
+END
+checkGetSessionXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/PageContext/checkGetSessionXML.jsp
+END
+checkGetServletXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/PageContext/checkGetServletXML.jsp
+END
+positiveRemoveAttribute.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/PageContext/positiveRemoveAttribute.jsp
+END
+includeXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/PageContext/includeXML.jsp
+END
+forward.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/PageContext/forward.jsp
+END
+checkGetOut.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/PageContext/checkGetOut.jsp
+END
+positiveInclude.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/PageContext/positiveInclude.jsp
+END
+checkGetServletContextXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/PageContext/checkGetServletContextXML.jsp
+END
+negativeForwardIllegalArg.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/PageContext/negativeForwardIllegalArg.jsp
+END
+positiveGetAttributeAvblXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/PageContext/positiveGetAttributeAvblXML.jsp
+END
+checkGetExceptionXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/PageContext/checkGetExceptionXML.jsp
+END
+checkGetResponseXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/PageContext/checkGetResponseXML.jsp
+END

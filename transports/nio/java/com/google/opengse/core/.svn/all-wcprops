@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/59/trunk/transports/nio/java/com/google/opengse/core
+END
+NetConnectionCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/27/trunk/transports/nio/java/com/google/opengse/core/NetConnectionCallback.java
+END
+MimeHeaders.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/27/trunk/transports/nio/java/com/google/opengse/core/MimeHeaders.java
+END
+ServletEngineFactoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/27/trunk/transports/nio/java/com/google/opengse/core/ServletEngineFactoryImpl.java
+END
+ParserFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/27/trunk/transports/nio/java/com/google/opengse/core/ParserFactory.java
+END
+RequestContextFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/27/trunk/transports/nio/java/com/google/opengse/core/RequestContextFactory.java
+END
+AcceptServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/27/trunk/transports/nio/java/com/google/opengse/core/AcceptServer.java
+END
+NetSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/27/trunk/transports/nio/java/com/google/opengse/core/NetSelector.java
+END
+NetTimer.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/27/trunk/transports/nio/java/com/google/opengse/core/NetTimer.java
+END
+ServletEngineFactoryFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/27/trunk/transports/nio/java/com/google/opengse/core/ServletEngineFactoryFactory.java
+END
+HttpNonblockingTransferTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/27/trunk/transports/nio/java/com/google/opengse/core/HttpNonblockingTransferTask.java
+END
+ParameterSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/27/trunk/transports/nio/java/com/google/opengse/core/ParameterSet.java
+END
+ServletEngineImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/39/trunk/transports/nio/java/com/google/opengse/core/ServletEngineImpl.java
+END
+RequestContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/27/trunk/transports/nio/java/com/google/opengse/core/RequestContext.java
+END
+HttpConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/27/trunk/transports/nio/java/com/google/opengse/core/HttpConnection.java
+END
+QuitCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/27/trunk/transports/nio/java/com/google/opengse/core/QuitCallback.java
+END
+NetTimerCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/27/trunk/transports/nio/java/com/google/opengse/core/NetTimerCallback.java
+END
+DispatchQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/27/trunk/transports/nio/java/com/google/opengse/core/DispatchQueue.java
+END
+HttpServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/58/trunk/transports/nio/java/com/google/opengse/core/HttpServer.java
+END
+NetConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/27/trunk/transports/nio/java/com/google/opengse/core/NetConnection.java
+END
+DispatchQueueImpl2.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/58/trunk/transports/nio/java/com/google/opengse/core/DispatchQueueImpl2.java
+END
+NetSelectionCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/27/trunk/transports/nio/java/com/google/opengse/core/NetSelectionCallback.java
+END
+HttpRequestImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/27/trunk/transports/nio/java/com/google/opengse/core/HttpRequestImpl.java
+END
+AcceptCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/27/trunk/transports/nio/java/com/google/opengse/core/AcceptCallback.java
+END
+HttpResponseImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/59/trunk/transports/nio/java/com/google/opengse/core/HttpResponseImpl.java
+END

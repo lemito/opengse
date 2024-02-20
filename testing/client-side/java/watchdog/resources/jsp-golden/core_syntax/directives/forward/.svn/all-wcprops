@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/core_syntax/directives/forward
+END
+negativeForwardUsedStream.html
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/core_syntax/directives/forward/negativeForwardUsedStream.html
+END
+positiveSingleQuotes.html
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/core_syntax/directives/forward/positiveSingleQuotes.html
+END
+negativeForwardNoBuff.html
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/core_syntax/directives/forward/negativeForwardNoBuff.html
+END
+positiveDoubleQuotes.html
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/core_syntax/directives/forward/positiveDoubleQuotes.html
+END
+positiveForwardRelHtml.html
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/core_syntax/directives/forward/positiveForwardRelHtml.html
+END
+positiveForwardAbsHtml.html
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/core_syntax/directives/forward/positiveForwardAbsHtml.html
+END

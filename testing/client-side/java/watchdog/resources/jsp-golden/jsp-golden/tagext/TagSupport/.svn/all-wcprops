@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/jsp-golden/tagext/TagSupport
+END
+positiveGetValues.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/jsp-golden/tagext/TagSupport/positiveGetValues.html
+END
+positivefindAncestorWithClass.html
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/jsp-golden/tagext/TagSupport/positivefindAncestorWithClass.html
+END
+positiveDoAfterBody.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/jsp-golden/tagext/TagSupport/positiveDoAfterBody.html
+END
+positiveSetGetId.html
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/jsp-golden/tagext/TagSupport/positiveSetGetId.html
+END
+positiveSetValue.html
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/jsp-golden/tagext/TagSupport/positiveSetValue.html
+END
+positiveGetValue.html
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/jsp-golden/tagext/TagSupport/positiveGetValue.html
+END
+positiveSetPageContext.html
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/jsp-golden/tagext/TagSupport/positiveSetPageContext.html
+END

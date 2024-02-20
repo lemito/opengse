@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/scripting/expressions
+END
+positiveExpr.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/scripting/expressions/positiveExpr.jsp
+END
+positiveExprXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/scripting/expressions/positiveExprXML.jsp
+END
+positiveExprComment.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/scripting/expressions/positiveExprComment.jsp
+END
+positiveExprCommentXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/scripting/expressions/positiveExprCommentXML.jsp
+END
+positiveExprBean.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/scripting/expressions/positiveExprBean.jsp
+END
+negativeExprBean.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/scripting/expressions/negativeExprBean.jsp
+END
+negativeExprSyntax.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/scripting/expressions/negativeExprSyntax.jsp
+END
+positiveExprSyntax.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/scripting/expressions/positiveExprSyntax.jsp
+END
+positiveExprBeanXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/scripting/expressions/positiveExprBeanXML.jsp
+END
+negativeExprBeanXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/scripting/expressions/negativeExprBeanXML.jsp
+END
+positiveExprSyntaxXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/scripting/expressions/positiveExprSyntaxXML.jsp
+END
+negativeExprSyntaxXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/scripting/expressions/negativeExprSyntaxXML.jsp
+END
+positiveExprWhiteSpace.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/scripting/expressions/positiveExprWhiteSpace.jsp
+END
+positiveExprWhiteSpaceXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/scripting/expressions/positiveExprWhiteSpaceXML.jsp
+END

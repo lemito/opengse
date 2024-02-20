@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet/ServletOutputStream
+END
+Println_intTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet/ServletOutputStream/Println_intTest.html
+END
+Println_longTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet/ServletOutputStream/Println_longTest.html
+END
+Print_intTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet/ServletOutputStream/Print_intTest.html
+END
+Print_longTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet/ServletOutputStream/Print_longTest.html
+END
+Println_floatTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet/ServletOutputStream/Println_floatTest.html
+END
+Println_StringTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet/ServletOutputStream/Println_StringTest.html
+END
+Println_doubleTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet/ServletOutputStream/Println_doubleTest.html
+END
+Print_floatTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet/ServletOutputStream/Print_floatTest.html
+END
+Print_StringTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet/ServletOutputStream/Print_StringTest.html
+END
+Println_charTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet/ServletOutputStream/Println_charTest.html
+END
+Println_booleanTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet/ServletOutputStream/Println_booleanTest.html
+END
+Print_doubleTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet/ServletOutputStream/Print_doubleTest.html
+END
+PrintlnTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet/ServletOutputStream/PrintlnTest.html
+END
+Print_charTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet/ServletOutputStream/Print_charTest.html
+END
+Print_booleanTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet/ServletOutputStream/Print_booleanTest.html
+END

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/directives/forward
+END
+positiveForwardAbsHtmlXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/directives/forward/positiveForwardAbsHtmlXML.jsp
+END
+includecommon.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/directives/forward/includecommon.html
+END
+negativeForwardUsedStream.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/directives/forward/negativeForwardUsedStream.jsp
+END
+negativeForwardUsedStreamXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/directives/forward/negativeForwardUsedStreamXML.jsp
+END
+positiveSingleQuotes.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/directives/forward/positiveSingleQuotes.jsp
+END
+positiveSingleQuotesXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/directives/forward/positiveSingleQuotesXML.jsp
+END
+negativeForwardNoBuff.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/directives/forward/negativeForwardNoBuff.jsp
+END
+negativeForwardNoBuffXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/directives/forward/negativeForwardNoBuffXML.jsp
+END
+positiveDoubleQuotes.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/directives/forward/positiveDoubleQuotes.jsp
+END
+positiveForwardRelHtml.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/directives/forward/positiveForwardRelHtml.jsp
+END
+positiveDoubleQuotesXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/directives/forward/positiveDoubleQuotesXML.jsp
+END
+positiveForwardRelHtmlXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/directives/forward/positiveForwardRelHtmlXML.jsp
+END
+positiveForwardAbsHtml.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/directives/forward/positiveForwardAbsHtml.jsp
+END

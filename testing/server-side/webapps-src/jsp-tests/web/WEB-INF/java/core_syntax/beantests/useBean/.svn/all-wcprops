@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/WEB-INF/java/core_syntax/beantests/useBean
+END
+Counter.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/WEB-INF/java/core_syntax/beantests/useBean/Counter.java
+END
+IntBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/WEB-INF/java/core_syntax/beantests/useBean/IntBean.java
+END
+String_IntBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/WEB-INF/java/core_syntax/beantests/useBean/String_IntBean.java
+END
+NewCounter.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/WEB-INF/java/core_syntax/beantests/useBean/NewCounter.java
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/util
+END
+DispatchQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/util/DispatchQueue.java
+END
+EmptyEnumeration.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/util/EmptyEnumeration.java
+END
+DispatchQueueImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/util/DispatchQueueImpl.java
+END
+PropertiesUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/util/PropertiesUtil.java
+END
+RunnableQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/util/RunnableQueue.java
+END
+RunnableQueueImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/util/RunnableQueueImpl.java
+END
+SignalTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/util/SignalTask.java
+END
+IteratorEnumeration.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/util/IteratorEnumeration.java
+END
+QueueExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/util/QueueExtractor.java
+END
+WorkerThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/util/WorkerThread.java
+END
+RunnablePair.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/util/RunnablePair.java
+END

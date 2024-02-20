@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/129/trunk/engines/minigse/javatests/com/google/opengse
+END
+ServletEngineConfigurationImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/118/trunk/engines/minigse/javatests/com/google/opengse/ServletEngineConfigurationImplTest.java
+END
+UtilityClassTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/118/trunk/engines/minigse/javatests/com/google/opengse/UtilityClassTestCase.java
+END
+UtilityClassTestCaseTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/118/trunk/engines/minigse/javatests/com/google/opengse/UtilityClassTestCaseTest.java
+END
+BasicServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/118/trunk/engines/minigse/javatests/com/google/opengse/BasicServlet.java
+END
+BasicServletTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/118/trunk/engines/minigse/javatests/com/google/opengse/BasicServletTest.java
+END
+HeaderUtilTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/118/trunk/engines/minigse/javatests/com/google/opengse/HeaderUtilTest.java
+END
+HttpRequestHandlerAdapterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/118/trunk/engines/minigse/javatests/com/google/opengse/HttpRequestHandlerAdapterTest.java
+END
+ThreadSafeCacheTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/118/trunk/engines/minigse/javatests/com/google/opengse/ThreadSafeCacheTest.java
+END
+UnwrittenTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/118/trunk/engines/minigse/javatests/com/google/opengse/UnwrittenTestCase.java
+END
+AllTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/118/trunk/engines/minigse/javatests/com/google/opengse/AllTests.java
+END
+AllClassesHaveATestTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/118/trunk/engines/minigse/javatests/com/google/opengse/AllClassesHaveATestTest.java
+END
+BasicServletFilterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/118/trunk/engines/minigse/javatests/com/google/opengse/BasicServletFilterTest.java
+END
+HttpServletRequestAdapterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/118/trunk/engines/minigse/javatests/com/google/opengse/HttpServletRequestAdapterTest.java
+END
+HttpServletResponseAdapterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/118/trunk/engines/minigse/javatests/com/google/opengse/HttpServletResponseAdapterTest.java
+END
+ServletUtilsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/118/trunk/engines/minigse/javatests/com/google/opengse/ServletUtilsTest.java
+END
+HttpServletRequestUnsupportedTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/118/trunk/engines/minigse/javatests/com/google/opengse/HttpServletRequestUnsupportedTest.java
+END
+RequestUtilsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/118/trunk/engines/minigse/javatests/com/google/opengse/RequestUtilsTest.java
+END
+ServletEngineTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/118/trunk/engines/minigse/javatests/com/google/opengse/ServletEngineTest.java
+END
+GSEConstantsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/118/trunk/engines/minigse/javatests/com/google/opengse/GSEConstantsTest.java
+END
+HttpServletResponseUnsupportedTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/118/trunk/engines/minigse/javatests/com/google/opengse/HttpServletResponseUnsupportedTest.java
+END

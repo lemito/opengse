@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/ServletRequest
+END
+GetServerNameTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/ServletRequest/GetServerNameTestServlet.java
+END
+1
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/ServletRequest/1
+END
+GetInputStreamTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/ServletRequest/GetInputStreamTestServlet.java
+END
+GetServerPortTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/ServletRequest/GetServerPortTestServlet.java
+END
+GetContentTypeTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/ServletRequest/GetContentTypeTestServlet.java
+END
+GetContentLengthTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/ServletRequest/GetContentLengthTestServlet.java
+END
+ServletRequestSetCharacterEncoding_1TestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/ServletRequest/ServletRequestSetCharacterEncoding_1TestServlet.java
+END
+ServletRequestGetRequestDispatcherTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/ServletRequest/ServletRequestGetRequestDispatcherTestServlet.java
+END
+GetParameterValues_1TestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/ServletRequest/GetParameterValues_1TestServlet.java
+END
+GetParameterTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/ServletRequest/GetParameterTestServlet.java
+END
+ServletRequestGetCharacterEncodingTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/ServletRequest/ServletRequestGetCharacterEncodingTestServlet.java
+END
+ServletRequestGetAttributeTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/ServletRequest/ServletRequestGetAttributeTestServlet.java
+END
+ServletRequestGetAttribute_01TestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/ServletRequest/ServletRequestGetAttribute_01TestServlet.java
+END
+GetLocalesTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/ServletRequest/GetLocalesTestServlet.java
+END
+GetReader_1TestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/ServletRequest/GetReader_1TestServlet.java
+END
+GetParameterNames_1TestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/ServletRequest/GetParameterNames_1TestServlet.java
+END
+GetRemoteAddrTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/ServletRequest/GetRemoteAddrTestServlet.java
+END
+GetRemoteHostTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/ServletRequest/GetRemoteHostTestServlet.java
+END
+GetInputStream_1TestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/ServletRequest/GetInputStream_1TestServlet.java
+END
+ServletRequestSetAttributeTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/ServletRequest/ServletRequestSetAttributeTestServlet.java
+END
+GetLocaleTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/ServletRequest/GetLocaleTestServlet.java
+END
+GetParameter_1TestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/ServletRequest/GetParameter_1TestServlet.java
+END
+GetParameterValuesTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/ServletRequest/GetParameterValuesTestServlet.java
+END
+ServletRequestGetCharacterEncoding_1TestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/ServletRequest/ServletRequestGetCharacterEncoding_1TestServlet.java
+END
+GetProtocolTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/ServletRequest/GetProtocolTestServlet.java
+END
+GetReaderTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/ServletRequest/GetReaderTestServlet.java
+END
+GetParameterNamesTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/ServletRequest/GetParameterNamesTestServlet.java
+END
+GetSchemeTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/ServletRequest/GetSchemeTestServlet.java
+END
+ServletRequestGetAttributeNamesTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/ServletRequest/ServletRequestGetAttributeNamesTestServlet.java
+END

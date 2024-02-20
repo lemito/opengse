@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/scripting/scriptlet
+END
+positiveScriptletMultilineXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/scripting/scriptlet/positiveScriptletMultilineXML.jsp
+END
+positiveScriptletCommentXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/scripting/scriptlet/positiveScriptletCommentXML.jsp
+END
+positiveScriptletUseBeanXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/scripting/scriptlet/positiveScriptletUseBeanXML.jsp
+END
+positiveScriptletMultiline2.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/scripting/scriptlet/positiveScriptletMultiline2.jsp
+END
+positiveScriptletMultiline2XML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/scripting/scriptlet/positiveScriptletMultiline2XML.jsp
+END
+negativeScriptletSyntax.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/scripting/scriptlet/negativeScriptletSyntax.jsp
+END
+negativeScriptletSyntaxXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/scripting/scriptlet/negativeScriptletSyntaxXML.jsp
+END
+positiveScriptletLiteral.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/scripting/scriptlet/positiveScriptletLiteral.jsp
+END
+positiveScriptletLiteralXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/scripting/scriptlet/positiveScriptletLiteralXML.jsp
+END
+positiveScriptlet.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/scripting/scriptlet/positiveScriptlet.jsp
+END
+positiveScriptletXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/scripting/scriptlet/positiveScriptletXML.jsp
+END
+positiveScriptletComment.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/scripting/scriptlet/positiveScriptletComment.jsp
+END
+positiveScriptletMultiline.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/scripting/scriptlet/positiveScriptletMultiline.jsp
+END
+positiveScriptletUseBean.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/scripting/scriptlet/positiveScriptletUseBean.jsp
+END

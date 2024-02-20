@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet/ServletRequestWrapper
+END
+ServletRequestWrapperGetParameterNames_1Test.html
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet/ServletRequestWrapper/ServletRequestWrapperGetParameterNames_1Test.html
+END
+ServletRequestWrapperGetRemoteAddrTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet/ServletRequestWrapper/ServletRequestWrapperGetRemoteAddrTest.html
+END
+ServletRequestWrapperGetAttributeNamesTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet/ServletRequestWrapper/ServletRequestWrapperGetAttributeNamesTest.html
+END
+ServletRequestWrapperGetRemoteHostTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet/ServletRequestWrapper/ServletRequestWrapperGetRemoteHostTest.html
+END
+ServletRequestWrapperGetInputStream_1Test.html
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet/ServletRequestWrapper/ServletRequestWrapperGetInputStream_1Test.html
+END
+ServletRequestWrapperGetRequestDispatcherTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet/ServletRequestWrapper/ServletRequestWrapperGetRequestDispatcherTest.html
+END
+ServletRequestWrapperGetLocaleTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet/ServletRequestWrapper/ServletRequestWrapperGetLocaleTest.html
+END
+ServletRequestWrapperGetParameterValuesTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet/ServletRequestWrapper/ServletRequestWrapperGetParameterValuesTest.html
+END
+ServletRequestWrapperGetParameter_1Test.html
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet/ServletRequestWrapper/ServletRequestWrapperGetParameter_1Test.html
+END
+ServletRequestWrapperGetProtocolTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet/ServletRequestWrapper/ServletRequestWrapperGetProtocolTest.html
+END
+ServletRequestWrapperGetReaderTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet/ServletRequestWrapper/ServletRequestWrapperGetReaderTest.html
+END
+ServletRequestWrapperGetAttribute_01Test.html
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet/ServletRequestWrapper/ServletRequestWrapperGetAttribute_01Test.html
+END
+ServletRequestWrapperGetCharacterEncodingTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet/ServletRequestWrapper/ServletRequestWrapperGetCharacterEncodingTest.html
+END
+ServletRequestWrapperGetAttributeTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet/ServletRequestWrapper/ServletRequestWrapperGetAttributeTest.html
+END
+ServletRequestWrapperGetSchemeTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet/ServletRequestWrapper/ServletRequestWrapperGetSchemeTest.html
+END
+ServletRequestWrapperGetParameterNamesTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet/ServletRequestWrapper/ServletRequestWrapperGetParameterNamesTest.html
+END
+ServletRequestWrapperGetServerNameTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet/ServletRequestWrapper/ServletRequestWrapperGetServerNameTest.html
+END
+ServletRequestWrapperGetInputStreamTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet/ServletRequestWrapper/ServletRequestWrapperGetInputStreamTest.html
+END
+ServletRequestWrapperGetServerPortTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet/ServletRequestWrapper/ServletRequestWrapperGetServerPortTest.html
+END
+ServletRequestWrapperGetContentTypeTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet/ServletRequestWrapper/ServletRequestWrapperGetContentTypeTest.html
+END
+ServletRequestWrapperGetContentLengthTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet/ServletRequestWrapper/ServletRequestWrapperGetContentLengthTest.html
+END
+ServletRequestWrapperGetParameterMapTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet/ServletRequestWrapper/ServletRequestWrapperGetParameterMapTest.html
+END
+ServletRequestWrapperSetAttributeTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet/ServletRequestWrapper/ServletRequestWrapperSetAttributeTest.html
+END
+ServletRequestWrapperGetParameterTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet/ServletRequestWrapper/ServletRequestWrapperGetParameterTest.html
+END
+ServletRequestWrapperGetParameterValues_1Test.html
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet/ServletRequestWrapper/ServletRequestWrapperGetParameterValues_1Test.html
+END
+ServletRequestWrapperRemoveAttributeTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet/ServletRequestWrapper/ServletRequestWrapperRemoveAttributeTest.html
+END
+ServletRequestWrapperGetReader_1Test.html
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet/ServletRequestWrapper/ServletRequestWrapperGetReader_1Test.html
+END
+ServletRequestWrapperIsSecureTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet/ServletRequestWrapper/ServletRequestWrapperIsSecureTest.html
+END
+ServletRequestWrapperGetLocalesTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet/ServletRequestWrapper/ServletRequestWrapperGetLocalesTest.html
+END

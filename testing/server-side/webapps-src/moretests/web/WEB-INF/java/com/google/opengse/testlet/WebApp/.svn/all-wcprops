@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/moretests/web/WEB-INF/java/com/google/opengse/testlet/WebApp
+END
+StaticFileIncludeTestlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/moretests/web/WEB-INF/java/com/google/opengse/testlet/WebApp/StaticFileIncludeTestlet.java
+END
+WebInfResourceTestlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/moretests/web/WEB-INF/java/com/google/opengse/testlet/WebApp/WebInfResourceTestlet.java
+END

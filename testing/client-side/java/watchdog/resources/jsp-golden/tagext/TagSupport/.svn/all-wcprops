@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/tagext/TagSupport
+END
+positiveGetParent.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/tagext/TagSupport/positiveGetParent.html
+END
+positiveRemoveValue.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/tagext/TagSupport/positiveRemoveValue.html
+END
+positiveDoStartTag.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/tagext/TagSupport/positiveDoStartTag.html
+END
+positiveGetValue.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/tagext/TagSupport/positiveGetValue.html
+END
+positiveSetPageContext.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/tagext/TagSupport/positiveSetPageContext.html
+END
+default_return_values.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/tagext/TagSupport/default_return_values.html
+END
+positiveGetValues.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/tagext/TagSupport/positiveGetValues.html
+END
+positivefindAncestorWithClass.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/tagext/TagSupport/positivefindAncestorWithClass.html
+END
+positiveDoAfterBody.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/tagext/TagSupport/positiveDoAfterBody.html
+END
+positiveDoEndTag.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/tagext/TagSupport/positiveDoEndTag.html
+END
+positiveSetGetId.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/tagext/TagSupport/positiveSetGetId.html
+END
+positiveSetValue.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/tagext/TagSupport/positiveSetValue.html
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet_http/HttpServletResponseWrapper
+END
+HttpServletResponseWrapperAddDateHeaderTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet_http/HttpServletResponseWrapper/HttpServletResponseWrapperAddDateHeaderTest.html
+END
+HttpServletResponseWrapperSetIntHeaderTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet_http/HttpServletResponseWrapper/HttpServletResponseWrapperSetIntHeaderTest.html
+END
+HttpServletResponseWrapperEncodeURLTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet_http/HttpServletResponseWrapper/HttpServletResponseWrapperEncodeURLTest.html
+END
+HttpServletResponseWrapperAddHeaderTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet_http/HttpServletResponseWrapper/HttpServletResponseWrapperAddHeaderTest.html
+END
+HttpServletResponseWrapperAddCookieTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet_http/HttpServletResponseWrapper/HttpServletResponseWrapperAddCookieTest.html
+END
+HttpServletResponseWrapperSetDateHeaderTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet_http/HttpServletResponseWrapper/HttpServletResponseWrapperSetDateHeaderTest.html
+END
+HttpServletResponseWrapperEncodeRedirectURLTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet_http/HttpServletResponseWrapper/HttpServletResponseWrapperEncodeRedirectURLTest.html
+END
+HttpServletResponseWrapperSetHeaderTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet_http/HttpServletResponseWrapper/HttpServletResponseWrapperSetHeaderTest.html
+END
+HttpServletResponseWrapperConstructorTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet_http/HttpServletResponseWrapper/HttpServletResponseWrapperConstructorTest.html
+END
+HttpServletResponseWrapperContainsHeaderTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet_http/HttpServletResponseWrapper/HttpServletResponseWrapperContainsHeaderTest.html
+END
+HttpServletResponseWrapperAddIntHeaderTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet_http/HttpServletResponseWrapper/HttpServletResponseWrapperAddIntHeaderTest.html
+END

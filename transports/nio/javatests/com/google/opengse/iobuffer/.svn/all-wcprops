@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/27/trunk/transports/nio/javatests/com/google/opengse/iobuffer
+END
+IOBufferLineReaderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/27/trunk/transports/nio/javatests/com/google/opengse/iobuffer/IOBufferLineReaderTest.java
+END
+IOBufferInputStreamTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/27/trunk/transports/nio/javatests/com/google/opengse/iobuffer/IOBufferInputStreamTest.java
+END
+IOBufferWriterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/27/trunk/transports/nio/javatests/com/google/opengse/iobuffer/IOBufferWriterTest.java
+END
+IOBufferOutputStreamTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/27/trunk/transports/nio/javatests/com/google/opengse/iobuffer/IOBufferOutputStreamTest.java
+END
+IOBufferTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/27/trunk/transports/nio/javatests/com/google/opengse/iobuffer/IOBufferTest.java
+END
+IOBufferReaderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/27/trunk/transports/nio/javatests/com/google/opengse/iobuffer/IOBufferReaderTest.java
+END

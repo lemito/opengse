@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/177/trunk/testing
+END
+build.number
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/30/trunk/testing/build.number
+END
+README.google
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/1/trunk/testing/README.google
+END
+opengse.properties
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/1/trunk/testing/opengse.properties
+END

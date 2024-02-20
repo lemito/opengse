@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/ServletResponse
+END
+FlushBufferTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/ServletResponse/FlushBufferTestServlet.java
+END
+SetLocaleTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/ServletResponse/SetLocaleTestServlet.java
+END
+GetWriter_1TestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/ServletResponse/GetWriter_1TestServlet.java
+END
+GetOutputStream_1TestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/ServletResponse/GetOutputStream_1TestServlet.java
+END
+SetBufferSize_1TestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/ServletResponse/SetBufferSize_1TestServlet.java
+END
+SetBufferSizeTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/ServletResponse/SetBufferSizeTestServlet.java
+END
+IsCommittedTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/ServletResponse/IsCommittedTestServlet.java
+END
+Reset_1TestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/ServletResponse/Reset_1TestServlet.java
+END
+ResetTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/ServletResponse/ResetTestServlet.java
+END
+GetBufferSizeTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/ServletResponse/GetBufferSizeTestServlet.java
+END
+ServletResponseGetCharacterEncodingTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/ServletResponse/ServletResponseGetCharacterEncodingTestServlet.java
+END
+SetContentLengthTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/ServletResponse/SetContentLengthTestServlet.java
+END
+SetContentTypeTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/ServletResponse/SetContentTypeTestServlet.java
+END

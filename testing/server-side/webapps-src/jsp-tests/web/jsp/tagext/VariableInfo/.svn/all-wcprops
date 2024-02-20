@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/tagext/VariableInfo
+END
+positiveGetDeclare.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/tagext/VariableInfo/positiveGetDeclare.jsp
+END
+positiveGetDeclareXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/tagext/VariableInfo/positiveGetDeclareXML.jsp
+END
+positiveGetClassName.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/tagext/VariableInfo/positiveGetClassName.jsp
+END
+positiveGetClassNameXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/tagext/VariableInfo/positiveGetClassNameXML.jsp
+END
+positiveGetScope.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/tagext/VariableInfo/positiveGetScope.jsp
+END
+positiveGetVarName.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/tagext/VariableInfo/positiveGetVarName.jsp
+END
+positiveGetScopeXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/tagext/VariableInfo/positiveGetScopeXML.jsp
+END
+positiveGetVarNameXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/tagext/VariableInfo/positiveGetVarNameXML.jsp
+END

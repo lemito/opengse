@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/147/trunk/engines/minigse/java/com/google/opengse/wrappers
+END
+ServletOutputStreamWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/wrappers/ServletOutputStreamWrapper.java
+END
+IncludeResponseWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/wrappers/IncludeResponseWrapper.java
+END
+ForwardResponseWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/wrappers/ForwardResponseWrapper.java
+END
+HttpSessionWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/wrappers/HttpSessionWrapper.java
+END
+IncludeRequestWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/wrappers/IncludeRequestWrapper.java
+END
+ForwardRequestWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/147/trunk/engines/minigse/java/com/google/opengse/wrappers/ForwardRequestWrapper.java
+END

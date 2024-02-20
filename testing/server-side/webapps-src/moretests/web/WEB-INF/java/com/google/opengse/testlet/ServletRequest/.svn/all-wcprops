@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/8/trunk/testing/server-side/webapps-src/moretests/web/WEB-INF/java/com/google/opengse/testlet/ServletRequest
+END
+RequestInitializedEventTestlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/moretests/web/WEB-INF/java/com/google/opengse/testlet/ServletRequest/RequestInitializedEventTestlet.java
+END
+MyServletRequestListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/moretests/web/WEB-INF/java/com/google/opengse/testlet/ServletRequest/MyServletRequestListener.java
+END
+AttributeReplacedEventTestlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/moretests/web/WEB-INF/java/com/google/opengse/testlet/ServletRequest/AttributeReplacedEventTestlet.java
+END
+DispatchTargetServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/moretests/web/WEB-INF/java/com/google/opengse/testlet/ServletRequest/DispatchTargetServlet.java
+END
+AttributeAddedEventTestlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/moretests/web/WEB-INF/java/com/google/opengse/testlet/ServletRequest/AttributeAddedEventTestlet.java
+END
+AttributeRemovedEventTestlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/moretests/web/WEB-INF/java/com/google/opengse/testlet/ServletRequest/AttributeRemovedEventTestlet.java
+END
+RequestPathsTestlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/8/trunk/testing/server-side/webapps-src/moretests/web/WEB-INF/java/com/google/opengse/testlet/ServletRequest/RequestPathsTestlet.java
+END
+MyServletRequestAttributeListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/moretests/web/WEB-INF/java/com/google/opengse/testlet/ServletRequest/MyServletRequestAttributeListener.java
+END
+GetRequestDispatcherPathTestlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/moretests/web/WEB-INF/java/com/google/opengse/testlet/ServletRequest/GetRequestDispatcherPathTestlet.java
+END
+RequestDestroyedEventTestlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/moretests/web/WEB-INF/java/com/google/opengse/testlet/ServletRequest/RequestDestroyedEventTestlet.java
+END

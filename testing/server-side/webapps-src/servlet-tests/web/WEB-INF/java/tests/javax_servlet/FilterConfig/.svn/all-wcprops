@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/FilterConfig
+END
+GetInitParamNamesNull_Filter.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/FilterConfig/GetInitParamNamesNull_Filter.java
+END
+GetInitParamNamesNullTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/FilterConfig/GetInitParamNamesNullTestServlet.java
+END
+GetInitParamTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/FilterConfig/GetInitParamTestServlet.java
+END
+GetInitParam_Filter.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/FilterConfig/GetInitParam_Filter.java
+END
+GetFilterName_Filter.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/FilterConfig/GetFilterName_Filter.java
+END
+GetFilterNameTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/FilterConfig/GetFilterNameTestServlet.java
+END
+GetInitParamNamesTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/FilterConfig/GetInitParamNamesTestServlet.java
+END
+GetInitParamNames_Filter.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/FilterConfig/GetInitParamNames_Filter.java
+END
+GetServletContextTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/FilterConfig/GetServletContextTestServlet.java
+END
+GetServletContext_Filter.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/FilterConfig/GetServletContext_Filter.java
+END
+GetInitParamNull_Filter.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/FilterConfig/GetInitParamNull_Filter.java
+END
+GetInitParamNullTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet/FilterConfig/GetInitParamNullTestServlet.java
+END

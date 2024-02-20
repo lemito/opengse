@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/core_syntax/actions/include
+END
+positiveIncludePageRelativeHtml.html
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/core_syntax/actions/include/positiveIncludePageRelativeHtml.html
+END
+positiveIncludeCtxRelativeHtml.html
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/core_syntax/actions/include/positiveIncludeCtxRelativeHtml.html
+END
+positiveIncludePageRelative.html
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/core_syntax/actions/include/positiveIncludePageRelative.html
+END
+positiveRequestAttrPageRelative.html
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/core_syntax/actions/include/positiveRequestAttrPageRelative.html
+END
+positiveIncludeCtxRelative.html
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/core_syntax/actions/include/positiveIncludeCtxRelative.html
+END
+positiveRequestAttrCtxRelative.html
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/core_syntax/actions/include/positiveRequestAttrCtxRelative.html
+END

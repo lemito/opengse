@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/118/trunk/engines/minigse/javatests/com/google/opengse/parser
+END
+SequenceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/118/trunk/engines/minigse/javatests/com/google/opengse/parser/SequenceTest.java
+END
+DifferenceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/118/trunk/engines/minigse/javatests/com/google/opengse/parser/DifferenceTest.java
+END
+ParserTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/118/trunk/engines/minigse/javatests/com/google/opengse/parser/ParserTest.java
+END
+StrcaselitTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/118/trunk/engines/minigse/javatests/com/google/opengse/parser/StrcaselitTest.java
+END
+ActionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/118/trunk/engines/minigse/javatests/com/google/opengse/parser/ActionTest.java
+END
+AlternativeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/118/trunk/engines/minigse/javatests/com/google/opengse/parser/AlternativeTest.java
+END
+RepeatTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/118/trunk/engines/minigse/javatests/com/google/opengse/parser/RepeatTest.java
+END
+ChsetTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/118/trunk/engines/minigse/javatests/com/google/opengse/parser/ChsetTest.java
+END
+IntersectionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/118/trunk/engines/minigse/javatests/com/google/opengse/parser/IntersectionTest.java
+END

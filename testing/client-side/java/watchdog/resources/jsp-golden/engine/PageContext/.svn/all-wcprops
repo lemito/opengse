@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/engine/PageContext
+END
+positiveGetAttributeAvbl.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/engine/PageContext/positiveGetAttributeAvbl.html
+END
+positiveGetAttributeNamesInScope.html
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/engine/PageContext/positiveGetAttributeNamesInScope.html
+END
+checkGetResponse.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/engine/PageContext/checkGetResponse.html
+END
+positivePopBody.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/engine/PageContext/positivePopBody.html
+END
+positiveSetAttribute.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/engine/PageContext/positiveSetAttribute.html
+END
+positiveRemoveAttribute.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/engine/PageContext/positiveRemoveAttribute.html
+END
+negativeRemoveAttribute.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/engine/PageContext/negativeRemoveAttribute.html
+END
+forGetException.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/engine/PageContext/forGetException.html
+END
+checkGetOut.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/engine/PageContext/checkGetOut.html
+END
+positiveInclude.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/engine/PageContext/positiveInclude.html
+END
+checkGetServletConfig.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/engine/PageContext/checkGetServletConfig.html
+END
+positiveGetAttributeNotAvbl.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/engine/PageContext/positiveGetAttributeNotAvbl.html
+END
+positivePushBody.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/engine/PageContext/positivePushBody.html
+END
+positiveGetAttributeScope.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/engine/PageContext/positiveGetAttributeScope.html
+END
+checkGetSession.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/engine/PageContext/checkGetSession.html
+END
+checkGetServlet.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/engine/PageContext/checkGetServlet.html
+END
+positiveSetAttributeInScope.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/engine/PageContext/positiveSetAttributeInScope.html
+END
+checkGetRequest.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/engine/PageContext/checkGetRequest.html
+END
+checkGetServletContext.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/engine/PageContext/checkGetServletContext.html
+END
+positiveForward.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/engine/PageContext/positiveForward.html
+END

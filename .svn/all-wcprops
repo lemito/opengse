@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 23
+/svn/!svn/ver/196/trunk
+END
+README.servlet-2.4-compliance
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1/trunk/README.servlet-2.4-compliance
+END
+opengse.ipr
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/179/trunk/opengse.ipr
+END
+README.servlet-2.3.compliance
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1/trunk/README.servlet-2.3.compliance
+END
+README.servlet-2.5.compliance
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1/trunk/README.servlet-2.5.compliance
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/163/trunk/build.xml
+END
+servlet-tests.iml
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/117/trunk/servlet-tests.iml
+END
+moretests.iml
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/117/trunk/moretests.iml
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/1/trunk/COPYING
+END
+README.google
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/106/trunk/README.google
+END
+blocking.iml
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/45/trunk/blocking.iml
+END
+README.security.compliance
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/83/trunk/README.security.compliance
+END
+jsp-tests.iml
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/117/trunk/jsp-tests.iml
+END
+Opengse.iml
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/120/trunk/Opengse.iml
+END
+client-side-tests.iml
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/33/trunk/client-side-tests.iml
+END
+performance.iml
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/117/trunk/performance.iml
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/1/trunk/LICENSE
+END
+servlet-compat.iml
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/117/trunk/servlet-compat.iml
+END

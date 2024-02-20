@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-compat/web/WEB-INF
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-compat/web/WEB-INF/web.xml
+END

@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/118/trunk/engines/minigse/javatests/com/google/opengse/configuration/impl
+END
+MutableWebAppEjbLocalRefTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/118/trunk/engines/minigse/javatests/com/google/opengse/configuration/impl/MutableWebAppEjbLocalRefTest.java
+END
+MutableWebAppSessionConfigTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/118/trunk/engines/minigse/javatests/com/google/opengse/configuration/impl/MutableWebAppSessionConfigTest.java
+END
+MutableWebAppEnvEntryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/118/trunk/engines/minigse/javatests/com/google/opengse/configuration/impl/MutableWebAppEnvEntryTest.java
+END
+MutableWebAppSecurityConstraintTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/118/trunk/engines/minigse/javatests/com/google/opengse/configuration/impl/MutableWebAppSecurityConstraintTest.java
+END
+MutableWebAppFormLoginConfigTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/118/trunk/engines/minigse/javatests/com/google/opengse/configuration/impl/MutableWebAppFormLoginConfigTest.java
+END
+MutableWebAppServletTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/118/trunk/engines/minigse/javatests/com/google/opengse/configuration/impl/MutableWebAppServletTest.java
+END
+MutableWebAppInitParamTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/118/trunk/engines/minigse/javatests/com/google/opengse/configuration/impl/MutableWebAppInitParamTest.java
+END
+MutableWebAppResourceRefTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/118/trunk/engines/minigse/javatests/com/google/opengse/configuration/impl/MutableWebAppResourceRefTest.java
+END
+MutableWebAppFilterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/118/trunk/engines/minigse/javatests/com/google/opengse/configuration/impl/MutableWebAppFilterTest.java
+END
+MutableWebAppListenerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/118/trunk/engines/minigse/javatests/com/google/opengse/configuration/impl/MutableWebAppListenerTest.java
+END
+MutableWebappSecurityRoleRefTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/118/trunk/engines/minigse/javatests/com/google/opengse/configuration/impl/MutableWebappSecurityRoleRefTest.java
+END
+MutableWebAppErrorPageTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/118/trunk/engines/minigse/javatests/com/google/opengse/configuration/impl/MutableWebAppErrorPageTest.java
+END
+MutableWebAppWelcomeFileListTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/118/trunk/engines/minigse/javatests/com/google/opengse/configuration/impl/MutableWebAppWelcomeFileListTest.java
+END
+MutableWebAppRunAsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/118/trunk/engines/minigse/javatests/com/google/opengse/configuration/impl/MutableWebAppRunAsTest.java
+END
+MutableWebappIconTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/118/trunk/engines/minigse/javatests/com/google/opengse/configuration/impl/MutableWebappIconTest.java
+END
+MutableWebAppSecurityRoleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/118/trunk/engines/minigse/javatests/com/google/opengse/configuration/impl/MutableWebAppSecurityRoleTest.java
+END
+MutableWebAppEjbRefTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/118/trunk/engines/minigse/javatests/com/google/opengse/configuration/impl/MutableWebAppEjbRefTest.java
+END
+MutableWebAppResourceEnvRefTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/118/trunk/engines/minigse/javatests/com/google/opengse/configuration/impl/MutableWebAppResourceEnvRefTest.java
+END
+MutableWebAppLoginConfigTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/118/trunk/engines/minigse/javatests/com/google/opengse/configuration/impl/MutableWebAppLoginConfigTest.java
+END
+MutableWebAppServletMappingTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/118/trunk/engines/minigse/javatests/com/google/opengse/configuration/impl/MutableWebAppServletMappingTest.java
+END
+MutableWebAppWebResourceCollectionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/118/trunk/engines/minigse/javatests/com/google/opengse/configuration/impl/MutableWebAppWebResourceCollectionTest.java
+END
+MutableWebappFilterMappingTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/118/trunk/engines/minigse/javatests/com/google/opengse/configuration/impl/MutableWebappFilterMappingTest.java
+END
+MutableWebAppTagLibTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/118/trunk/engines/minigse/javatests/com/google/opengse/configuration/impl/MutableWebAppTagLibTest.java
+END
+MutableWebAppMimeMappingTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/118/trunk/engines/minigse/javatests/com/google/opengse/configuration/impl/MutableWebAppMimeMappingTest.java
+END
+MutableWebAppContextParamTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/118/trunk/engines/minigse/javatests/com/google/opengse/configuration/impl/MutableWebAppContextParamTest.java
+END
+MutableWebAppAuthConstraintTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/118/trunk/engines/minigse/javatests/com/google/opengse/configuration/impl/MutableWebAppAuthConstraintTest.java
+END
+HasDescriptionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/118/trunk/engines/minigse/javatests/com/google/opengse/configuration/impl/HasDescriptionTest.java
+END
+MutableWebAppConfigurationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/118/trunk/engines/minigse/javatests/com/google/opengse/configuration/impl/MutableWebAppConfigurationTest.java
+END

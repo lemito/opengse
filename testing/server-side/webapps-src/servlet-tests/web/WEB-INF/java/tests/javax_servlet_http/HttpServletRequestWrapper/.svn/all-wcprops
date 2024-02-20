@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/167/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet_http/HttpServletRequestWrapper
+END
+HttpServletRequestWrapperGetServletPathTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet_http/HttpServletRequestWrapper/HttpServletRequestWrapperGetServletPathTestServlet.java
+END
+HttpServletRequestWrapperGetContextPathTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet_http/HttpServletRequestWrapper/HttpServletRequestWrapperGetContextPathTestServlet.java
+END
+GenericRequestWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet_http/HttpServletRequestWrapper/GenericRequestWrapper.java
+END
+HttpServletRequestWrapperGetAuthTypeTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet_http/HttpServletRequestWrapper/HttpServletRequestWrapperGetAuthTypeTestServlet.java
+END
+HttpServletRequestWrapperGetIntHeaderTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet_http/HttpServletRequestWrapper/HttpServletRequestWrapperGetIntHeaderTestServlet.java
+END
+HSRWFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet_http/HttpServletRequestWrapper/HSRWFilter.java
+END
+HttpServletRequestWrapperGetPathInfoTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet_http/HttpServletRequestWrapper/HttpServletRequestWrapperGetPathInfoTestServlet.java
+END
+HttpServletRequestWrapperGetRequestURITestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet_http/HttpServletRequestWrapper/HttpServletRequestWrapperGetRequestURITestServlet.java
+END
+HttpServletRequestWrapperGetRequestURLTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/svn/!svn/ver/167/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet_http/HttpServletRequestWrapper/HttpServletRequestWrapperGetRequestURLTestServlet.java
+END
+HttpServletRequestWrapperGetHeadersTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/!svn/ver/139/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet_http/HttpServletRequestWrapper/HttpServletRequestWrapperGetHeadersTestServlet.java
+END
+HttpServletRequestWrapperGetHeaderNamesTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet_http/HttpServletRequestWrapper/HttpServletRequestWrapperGetHeaderNamesTestServlet.java
+END
+HttpServletRequestWrapperGetPathTranslatedTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet_http/HttpServletRequestWrapper/HttpServletRequestWrapperGetPathTranslatedTestServlet.java
+END
+HttpServletRequestWrapperGetMethodTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet_http/HttpServletRequestWrapper/HttpServletRequestWrapperGetMethodTestServlet.java
+END
+HttpServletRequestWrapperGetRequestedSessionIdTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 198
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet_http/HttpServletRequestWrapper/HttpServletRequestWrapperGetRequestedSessionIdTestServlet.java
+END
+HttpServletRequestWrapperGetSessionTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet_http/HttpServletRequestWrapper/HttpServletRequestWrapperGetSessionTestServlet.java
+END
+HttpServletRequestWrapperGetSessionBooleanTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet_http/HttpServletRequestWrapper/HttpServletRequestWrapperGetSessionBooleanTestServlet.java
+END
+HttpServletRequestWrapperIsRequestedSessionIdFromURL_01TestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 207
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet_http/HttpServletRequestWrapper/HttpServletRequestWrapperIsRequestedSessionIdFromURL_01TestServlet.java
+END
+HttpServletRequestWrapperConstructorTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet_http/HttpServletRequestWrapper/HttpServletRequestWrapperConstructorTestServlet.java
+END
+HttpServletRequestWrapperGetDateHeaderTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet_http/HttpServletRequestWrapper/HttpServletRequestWrapperGetDateHeaderTestServlet.java
+END
+HttpServletRequestWrapperGetHeaderTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet_http/HttpServletRequestWrapper/HttpServletRequestWrapperGetHeaderTestServlet.java
+END
+HttpServletRequestWrapperGetRemoteUserTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet_http/HttpServletRequestWrapper/HttpServletRequestWrapperGetRemoteUserTestServlet.java
+END
+HttpServletRequestWrapperGetCookiesTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet_http/HttpServletRequestWrapper/HttpServletRequestWrapperGetCookiesTestServlet.java
+END
+HttpServletRequestWrapperIsRequestedSessionIdFromCookie_01TestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 210
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet_http/HttpServletRequestWrapper/HttpServletRequestWrapperIsRequestedSessionIdFromCookie_01TestServlet.java
+END
+HttpServletRequestWrapperGetQueryStringTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet_http/HttpServletRequestWrapper/HttpServletRequestWrapperGetQueryStringTestServlet.java
+END
+HttpServletRequestWrapperIsRequestedSessionIdValid_01TestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 205
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet_http/HttpServletRequestWrapper/HttpServletRequestWrapperIsRequestedSessionIdValid_01TestServlet.java
+END

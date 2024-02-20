@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/core_syntax/beantests/setProperty
+END
+positiveSetBytePrim.html
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/core_syntax/beantests/setProperty/positiveSetBytePrim.html
+END
+positiveSetFloatPrim.html
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/core_syntax/beantests/setProperty/positiveSetFloatPrim.html
+END
+positiveSetPropNoParam.html
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/core_syntax/beantests/setProperty/positiveSetPropNoParam.html
+END
+positiveSetByteObj.html
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/core_syntax/beantests/setProperty/positiveSetByteObj.html
+END
+positiveSetFloatObj.html
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/core_syntax/beantests/setProperty/positiveSetFloatObj.html
+END
+positiveSetPropParam.html
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/core_syntax/beantests/setProperty/positiveSetPropParam.html
+END
+positiveSetDoublePrim.html
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/core_syntax/beantests/setProperty/positiveSetDoublePrim.html
+END
+positiveUseBeanNext.html
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/core_syntax/beantests/setProperty/positiveUseBeanNext.html
+END
+positiveSetCharPrim.html
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/core_syntax/beantests/setProperty/positiveSetCharPrim.html
+END
+positiveSetDoubleObj.html
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/core_syntax/beantests/setProperty/positiveSetDoubleObj.html
+END
+positiveSetBooleanPrim.html
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/core_syntax/beantests/setProperty/positiveSetBooleanPrim.html
+END
+positiveSetCharObj.html
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/core_syntax/beantests/setProperty/positiveSetCharObj.html
+END
+positiveSetPropAll.html
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/core_syntax/beantests/setProperty/positiveSetPropAll.html
+END
+positiveSetBooleanObj.html
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/core_syntax/beantests/setProperty/positiveSetBooleanObj.html
+END
+positiveSetPropValue.html
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/core_syntax/beantests/setProperty/positiveSetPropValue.html
+END
+positiveSetIndexedProp.html
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/core_syntax/beantests/setProperty/positiveSetIndexedProp.html
+END
+positiveSetIntPrim.html
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/core_syntax/beantests/setProperty/positiveSetIntPrim.html
+END
+positiveSetPropSingleQuotes.html
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/core_syntax/beantests/setProperty/positiveSetPropSingleQuotes.html
+END
+positiveSetIntObj.html
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/core_syntax/beantests/setProperty/positiveSetIntObj.html
+END
+positiveSetLongPrim.html
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/core_syntax/beantests/setProperty/positiveSetLongPrim.html
+END
+positiveSetLongObj.html
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/core_syntax/beantests/setProperty/positiveSetLongObj.html
+END
+positiveUseBeanInit.html
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/core_syntax/beantests/setProperty/positiveUseBeanInit.html
+END

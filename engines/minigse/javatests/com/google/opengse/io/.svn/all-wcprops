@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/118/trunk/engines/minigse/javatests/com/google/opengse/io
+END
+JarFileCollectionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/118/trunk/engines/minigse/javatests/com/google/opengse/io/JarFileCollectionTest.java
+END
+StreamUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/118/trunk/engines/minigse/javatests/com/google/opengse/io/StreamUtils.java
+END
+StreamUtilsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/118/trunk/engines/minigse/javatests/com/google/opengse/io/StreamUtilsTest.java
+END
+FileUtilTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/118/trunk/engines/minigse/javatests/com/google/opengse/io/FileUtilTest.java
+END

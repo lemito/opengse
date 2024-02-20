@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/175/trunk/testing/server-side/webapps-src/moretests/web/WEB-INF/java/com/google/opengse/testlet/HttpSession
+END
+SessionCookieTestlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/moretests/web/WEB-INF/java/com/google/opengse/testlet/HttpSession/SessionCookieTestlet.java
+END
+SessionInfoTestlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/14/trunk/testing/server-side/webapps-src/moretests/web/WEB-INF/java/com/google/opengse/testlet/HttpSession/SessionInfoTestlet.java
+END
+SessionMaxInactiveIntervalTestlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/172/trunk/testing/server-side/webapps-src/moretests/web/WEB-INF/java/com/google/opengse/testlet/HttpSession/SessionMaxInactiveIntervalTestlet.java
+END
+SessionExpiredTestlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/175/trunk/testing/server-side/webapps-src/moretests/web/WEB-INF/java/com/google/opengse/testlet/HttpSession/SessionExpiredTestlet.java
+END

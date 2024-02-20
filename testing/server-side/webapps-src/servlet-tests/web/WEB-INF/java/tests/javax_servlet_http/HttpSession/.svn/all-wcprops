@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet_http/HttpSession
+END
+SetMaxInactiveIntervalTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet_http/HttpSession/SetMaxInactiveIntervalTestServlet.java
+END
+HttpSessionGetAttributeNamesTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet_http/HttpSession/HttpSessionGetAttributeNamesTestServlet.java
+END
+HttpSessionGetAttributeNames_01TestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet_http/HttpSession/HttpSessionGetAttributeNames_01TestServlet.java
+END
+GetIdTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet_http/HttpSession/GetIdTestServlet.java
+END
+HttpSessionGetServletContextTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet_http/HttpSession/HttpSessionGetServletContextTestServlet.java
+END
+HttpSessionGetAttributeTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet_http/HttpSession/HttpSessionGetAttributeTestServlet.java
+END
+HttpSessionGetAttribute_01TestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet_http/HttpSession/HttpSessionGetAttribute_01TestServlet.java
+END
+HttpSessionGetAttributeNamesEmptyTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet_http/HttpSession/HttpSessionGetAttributeNamesEmptyTestServlet.java
+END
+GetMaxInactiveIntervalTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet_http/HttpSession/GetMaxInactiveIntervalTestServlet.java
+END
+GetLastAccessedTimeTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet_http/HttpSession/GetLastAccessedTimeTestServlet.java
+END
+SetAttributeTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet_http/HttpSession/SetAttributeTestServlet.java
+END
+SetAttribute_01TestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet_http/HttpSession/SetAttribute_01TestServlet.java
+END
+InvalidateTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet_http/HttpSession/InvalidateTestServlet.java
+END
+RemoveAttribute_01TestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet_http/HttpSession/RemoveAttribute_01TestServlet.java
+END
+RemoveAttributeTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet_http/HttpSession/RemoveAttributeTestServlet.java
+END
+GetCreationTimeTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet_http/HttpSession/GetCreationTimeTestServlet.java
+END
+IsNewTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet_http/HttpSession/IsNewTestServlet.java
+END
+IsNew_01TestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet_http/HttpSession/IsNew_01TestServlet.java
+END

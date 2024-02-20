@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/tagext/misc
+END
+request_time_attributes.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/tagext/misc/request_time_attributes.jsp
+END
+request_time_attributesXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/tagext/misc/request_time_attributesXML.jsp
+END
+persistentValues.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/tagext/misc/persistentValues.jsp
+END
+persistentValuesXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/tagext/misc/persistentValuesXML.jsp
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/WEB-INF/java/tags/TagSupport
+END
+FirstPrizeTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/WEB-INF/java/tags/TagSupport/FirstPrizeTag.java
+END
+SecondPrizeTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/WEB-INF/java/tags/TagSupport/SecondPrizeTag.java
+END
+DefaultReturnValues.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/WEB-INF/java/tags/TagSupport/DefaultReturnValues.java
+END

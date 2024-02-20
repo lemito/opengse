@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/testing
+END
+JDKFileCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/testing/JDKFileCollection.java
+END
+FilterChains.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/testing/FilterChains.java
+END
+HttpProfilingServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/testing/HttpProfilingServer.java
+END
+ClasspathUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/testing/ClasspathUtil.java
+END

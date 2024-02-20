@@ -1,0 +1,257 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/JspWriter/print
+END
+negativePrintBooleanXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/JspWriter/print/negativePrintBooleanXML.jsp
+END
+positivePrintlnObj.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/JspWriter/print/positivePrintlnObj.jsp
+END
+positivePrintlnIntXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/JspWriter/print/positivePrintlnIntXML.jsp
+END
+positivePrintlnCharArray.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/JspWriter/print/positivePrintlnCharArray.jsp
+END
+positivePrintStr.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/JspWriter/print/positivePrintStr.jsp
+END
+positivePrintDouble.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/JspWriter/print/positivePrintDouble.jsp
+END
+positivePrintlnLongXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/JspWriter/print/positivePrintlnLongXML.jsp
+END
+positivePrintChar.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/JspWriter/print/positivePrintChar.jsp
+END
+positivePrintBoolean.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/JspWriter/print/positivePrintBoolean.jsp
+END
+positivePrintlnFloatXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/JspWriter/print/positivePrintlnFloatXML.jsp
+END
+positivePrintlnStrXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/JspWriter/print/positivePrintlnStrXML.jsp
+END
+initializer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/JspWriter/print/initializer.jsp
+END
+positivePrintlnInt.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/JspWriter/print/positivePrintlnInt.jsp
+END
+positivePrintlnDoubleXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/JspWriter/print/positivePrintlnDoubleXML.jsp
+END
+positivePrintObjXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/JspWriter/print/positivePrintObjXML.jsp
+END
+positivePrintCharArrayXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/JspWriter/print/positivePrintCharArrayXML.jsp
+END
+positivePrintCharXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/JspWriter/print/positivePrintCharXML.jsp
+END
+positivePrintLong.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/JspWriter/print/positivePrintLong.jsp
+END
+positivePrintBooleanXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/JspWriter/print/positivePrintBooleanXML.jsp
+END
+positivePrintlnStr.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/JspWriter/print/positivePrintlnStr.jsp
+END
+initializerXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/JspWriter/print/initializerXML.jsp
+END
+positivePrintlnDouble.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/JspWriter/print/positivePrintlnDouble.jsp
+END
+positivePrintFloat.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/JspWriter/print/positivePrintFloat.jsp
+END
+positivePrintlnChar.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/JspWriter/print/positivePrintlnChar.jsp
+END
+positivePrintln.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/JspWriter/print/positivePrintln.jsp
+END
+positivePrintlnBoolean.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/JspWriter/print/positivePrintlnBoolean.jsp
+END
+positivePrintObj.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/JspWriter/print/positivePrintObj.jsp
+END
+positivePrintIntXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/JspWriter/print/positivePrintIntXML.jsp
+END
+positivePrintCharArray.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/JspWriter/print/positivePrintCharArray.jsp
+END
+negativePrintBoolean.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/JspWriter/print/negativePrintBoolean.jsp
+END
+positivePrintLongXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/JspWriter/print/positivePrintLongXML.jsp
+END
+positivePrintlnObjXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/JspWriter/print/positivePrintlnObjXML.jsp
+END
+positivePrintFloatXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/JspWriter/print/positivePrintFloatXML.jsp
+END
+positivePrintlnCharArrayXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/JspWriter/print/positivePrintlnCharArrayXML.jsp
+END
+positivePrintlnCharXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/JspWriter/print/positivePrintlnCharXML.jsp
+END
+positivePrintStrXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/JspWriter/print/positivePrintStrXML.jsp
+END
+positivePrintlnLong.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/JspWriter/print/positivePrintlnLong.jsp
+END
+positivePrintInt.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/JspWriter/print/positivePrintInt.jsp
+END
+positivePrintlnXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/JspWriter/print/positivePrintlnXML.jsp
+END
+positivePrintlnBooleanXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/JspWriter/print/positivePrintlnBooleanXML.jsp
+END
+positivePrintDoubleXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/JspWriter/print/positivePrintDoubleXML.jsp
+END
+positivePrintlnFloat.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/engine/JspWriter/print/positivePrintlnFloat.jsp
+END

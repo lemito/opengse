@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet/ServletRequest
+END
+GetInputStreamTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet/ServletRequest/GetInputStreamTest.html
+END
+GetServerPortTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet/ServletRequest/GetServerPortTest.html
+END
+GetContentTypeTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet/ServletRequest/GetContentTypeTest.html
+END
+GetContentLengthTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet/ServletRequest/GetContentLengthTest.html
+END
+ServletRequestGetRequestDispatcherTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet/ServletRequest/ServletRequestGetRequestDispatcherTest.html
+END
+ServletRequestSetCharacterEncoding_1Test.html
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet/ServletRequest/ServletRequestSetCharacterEncoding_1Test.html
+END
+GetParameterTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet/ServletRequest/GetParameterTest.html
+END
+GetParameterValues_1Test.html
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet/ServletRequest/GetParameterValues_1Test.html
+END
+ServletRequestGetAttribute_01Test.html
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet/ServletRequest/ServletRequestGetAttribute_01Test.html
+END
+ServletRequestGetAttributeTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet/ServletRequest/ServletRequestGetAttributeTest.html
+END
+ServletRequestGetCharacterEncodingTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet/ServletRequest/ServletRequestGetCharacterEncodingTest.html
+END
+GetLocalesTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet/ServletRequest/GetLocalesTest.html
+END
+GetReader_1Test.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet/ServletRequest/GetReader_1Test.html
+END
+GetParameterNames_1Test.html
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet/ServletRequest/GetParameterNames_1Test.html
+END
+GetRemoteAddrTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet/ServletRequest/GetRemoteAddrTest.html
+END
+GetRemoteHostTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet/ServletRequest/GetRemoteHostTest.html
+END
+GetInputStream_1Test.html
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet/ServletRequest/GetInputStream_1Test.html
+END
+ServletRequestSetAttributeTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet/ServletRequest/ServletRequestSetAttributeTest.html
+END
+GetLocaleTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet/ServletRequest/GetLocaleTest.html
+END
+GetParameterValuesTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet/ServletRequest/GetParameterValuesTest.html
+END
+GetParameter_1Test.html
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet/ServletRequest/GetParameter_1Test.html
+END
+GetProtocolTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet/ServletRequest/GetProtocolTest.html
+END
+ServletRequestGetCharacterEncoding_1Test.html
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet/ServletRequest/ServletRequestGetCharacterEncoding_1Test.html
+END
+GetReaderTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet/ServletRequest/GetReaderTest.html
+END
+GetParameterNamesTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet/ServletRequest/GetParameterNamesTest.html
+END
+GetSchemeTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet/ServletRequest/GetSchemeTest.html
+END
+ServletRequestGetAttributeNamesTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet/ServletRequest/ServletRequestGetAttributeNamesTest.html
+END
+GetServerNameTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet/ServletRequest/GetServerNameTest.html
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/tagext/TagData
+END
+positiveTagSetAttribute.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/tagext/TagData/positiveTagSetAttribute.jsp
+END
+positiveTagSetAttributeXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/tagext/TagData/positiveTagSetAttributeXML.jsp
+END
+positiveTagGetAttribute.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/tagext/TagData/positiveTagGetAttribute.jsp
+END
+positiveTagGetAttributeXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/tagext/TagData/positiveTagGetAttributeXML.jsp
+END
+positiveTagGetAttributeString.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/tagext/TagData/positiveTagGetAttributeString.jsp
+END
+positiveTagGetAttributeStringXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/tagext/TagData/positiveTagGetAttributeStringXML.jsp
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 26
+/svn/!svn/ver/51/trunk/lib
+END
+easymock-2.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/1/trunk/lib/easymock-2.3.jar
+END
+junit-4.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/51/trunk/lib/junit-4.4.jar
+END
+easymockclassextension-2.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1/trunk/lib/easymockclassextension-2.3.jar
+END
+xalan-2.7.1-src.zip
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/1/trunk/lib/xalan-2.7.1-src.zip
+END
+junit-4.4-src.jar
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/1/trunk/lib/junit-4.4-src.jar
+END
+cglib-nodep-2.1_3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/1/trunk/lib/cglib-nodep-2.1_3.jar
+END
+cglib-src-2.1_3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/1/trunk/lib/cglib-src-2.1_3.jar
+END
+xalan-2.7.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/1/trunk/lib/xalan-2.7.1.jar
+END
+easymock-2.3-src.zip
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/1/trunk/lib/easymock-2.3-src.zip
+END
+ant-nodeps.jar
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/1/trunk/lib/ant-nodeps.jar
+END
+ant-junit.jar
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/1/trunk/lib/ant-junit.jar
+END
+easymockclassextension-2.3-src.zip
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1/trunk/lib/easymockclassextension-2.3-src.zip
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/118/trunk/engines/minigse/javatests/com/google/opengse/filters
+END
+RegularExpressionRequestHandlerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/118/trunk/engines/minigse/javatests/com/google/opengse/filters/RegularExpressionRequestHandlerTest.java
+END
+RegularExpressionRequestHandlerDispatcherTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/118/trunk/engines/minigse/javatests/com/google/opengse/filters/RegularExpressionRequestHandlerDispatcherTest.java
+END

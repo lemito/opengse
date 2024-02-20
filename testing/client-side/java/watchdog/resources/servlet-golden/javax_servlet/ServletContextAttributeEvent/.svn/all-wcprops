@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet/ServletContextAttributeEvent
+END
+ServletContextAttributeReplacedEventTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet/ServletContextAttributeEvent/ServletContextAttributeReplacedEventTest.html
+END
+ServletContextAttributeRemovedEventTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet/ServletContextAttributeEvent/ServletContextAttributeRemovedEventTest.html
+END
+ServletContextAttributeAddedEventTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet/ServletContextAttributeEvent/ServletContextAttributeAddedEventTest.html
+END
+ServletContextAttributeEventConstructorTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet/ServletContextAttributeEvent/ServletContextAttributeEventConstructorTest.html
+END

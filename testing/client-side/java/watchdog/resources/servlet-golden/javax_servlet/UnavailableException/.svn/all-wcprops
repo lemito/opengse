@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet/UnavailableException
+END
+IsPermanentTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet/UnavailableException/IsPermanentTest.html
+END
+UnavailableException_Constructor1Test.html
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet/UnavailableException/UnavailableException_Constructor1Test.html
+END
+UnavailableException_Constructor2Test.html
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet/UnavailableException/UnavailableException_Constructor2Test.html
+END
+GetUnavailableSecondsTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet/UnavailableException/GetUnavailableSecondsTest.html
+END

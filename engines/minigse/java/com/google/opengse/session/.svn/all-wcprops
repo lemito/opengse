@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/178/trunk/engines/minigse/java/com/google/opengse/session
+END
+HttpSessions.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/144/trunk/engines/minigse/java/com/google/opengse/session/HttpSessions.java
+END
+AbstractHttpSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/144/trunk/engines/minigse/java/com/google/opengse/session/AbstractHttpSession.java
+END
+TimeKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/172/trunk/engines/minigse/java/com/google/opengse/session/TimeKey.java
+END
+SessionCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/session/SessionCache.java
+END
+HttpSessionsImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/172/trunk/engines/minigse/java/com/google/opengse/session/HttpSessionsImpl.java
+END
+SessionConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/session/SessionConfiguration.java
+END
+SessionConfigurationImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/session/SessionConfigurationImpl.java
+END
+SessionCacheFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/session/SessionCacheFactory.java
+END
+SessionCacheFactoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/session/SessionCacheFactoryImpl.java
+END
+SessionHandlingRequestWrapper2.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/178/trunk/engines/minigse/java/com/google/opengse/session/SessionHandlingRequestWrapper2.java
+END
+HttpSessionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/172/trunk/engines/minigse/java/com/google/opengse/session/HttpSessionImpl.java
+END

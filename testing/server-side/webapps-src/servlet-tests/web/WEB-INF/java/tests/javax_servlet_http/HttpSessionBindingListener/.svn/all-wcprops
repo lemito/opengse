@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet_http/HttpSessionBindingListener
+END
+HSBindingListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet_http/HttpSessionBindingListener/HSBindingListener.java
+END
+HttpSessionValueBoundTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet_http/HttpSessionBindingListener/HttpSessionValueBoundTestServlet.java
+END
+HttpSessionValueUnBoundTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet_http/HttpSessionBindingListener/HttpSessionValueUnBoundTestServlet.java
+END

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module relativePaths="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/out/production/blocking" />
+    <output-test url="file://$MODULE_DIR$/out/test/blocking" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/transports/blocking">
+      <sourceFolder url="file://$MODULE_DIR$/transports/blocking/java" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="Opengse" />
+    <orderEntry type="library" name="Servlet API" level="project" />
+    <orderEntry type="library" name="JUnit" level="project" />
+  </component>
+</module>
+

@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet_http/HttpServletResponse
+END
+AddDateHeaderTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet_http/HttpServletResponse/AddDateHeaderTestServlet.java
+END
+SetStatusTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet_http/HttpServletResponse/SetStatusTestServlet.java
+END
+AddHeaderTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet_http/HttpServletResponse/AddHeaderTestServlet.java
+END
+SetDateHeaderTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet_http/HttpServletResponse/SetDateHeaderTestServlet.java
+END
+SendErrorTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet_http/HttpServletResponse/SendErrorTestServlet.java
+END
+SetHeaderTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet_http/HttpServletResponse/SetHeaderTestServlet.java
+END
+SendError_StringIgnoreHeaderTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet_http/HttpServletResponse/SendError_StringIgnoreHeaderTestServlet.java
+END
+RedirectedTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet_http/HttpServletResponse/RedirectedTestServlet.java
+END
+SendRedirectTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet_http/HttpServletResponse/SendRedirectTestServlet.java
+END
+AddIntHeaderTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet_http/HttpServletResponse/AddIntHeaderTestServlet.java
+END
+SetIntHeaderTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet_http/HttpServletResponse/SetIntHeaderTestServlet.java
+END
+SendErrorIgnoreHeaderTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet_http/HttpServletResponse/SendErrorIgnoreHeaderTestServlet.java
+END
+SendRedirectForWebAppTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet_http/HttpServletResponse/SendRedirectForWebAppTestServlet.java
+END
+AddCookieTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet_http/HttpServletResponse/AddCookieTestServlet.java
+END
+ContainsHeaderTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet_http/HttpServletResponse/ContainsHeaderTestServlet.java
+END
+ContainsHeader_01TestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet_http/HttpServletResponse/ContainsHeader_01TestServlet.java
+END
+SendRedirectIgnoreHeaderTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet_http/HttpServletResponse/SendRedirectIgnoreHeaderTestServlet.java
+END
+SendError_StringTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet_http/HttpServletResponse/SendError_StringTestServlet.java
+END
+SendRedirect_1TestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/tests/javax_servlet_http/HttpServletResponse/SendRedirect_1TestServlet.java
+END

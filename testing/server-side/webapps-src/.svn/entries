@@ -1,0 +1,77 @@
+10
+
+dir
+196
+http://opengse.googlecode.com/svn/trunk/testing/server-side/webapps-src
+http://opengse.googlecode.com/svn
+
+
+
+2009-02-12T15:41:18.185205Z
+176
+mike.c.jennings
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+bb9bb3b3-0845-0410-b35b-8b76130e7852
+
+jsp-tests
+dir
+
+build.xml
+file
+
+
+
+
+2016-03-17T23:25:51.920495Z
+4e21690a8ea805595dbdac61c922748d
+2008-10-23T06:38:20.138578Z
+1
+wenbozhu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+658
+
+performance
+dir
+
+servlet-tests
+dir
+
+servlet-compat
+dir
+
+moretests
+dir
+

@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/directives/page/errorpage
+END
+negativeNoErrorPageBuffXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/directives/page/errorpage/negativeNoErrorPageBuffXML.jsp
+END
+positiveErrorPageXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/directives/page/errorpage/positiveErrorPageXML.jsp
+END
+positiveDefaultIsErrorPageXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/directives/page/errorpage/positiveDefaultIsErrorPageXML.jsp
+END
+errorpagedefault.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/directives/page/errorpage/errorpagedefault.jsp
+END
+myerrorpage.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/directives/page/errorpage/myerrorpage.jsp
+END
+FatalTranslationErrorPageXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/directives/page/errorpage/FatalTranslationErrorPageXML.jsp
+END
+negativeFatalTranslationError.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/directives/page/errorpage/negativeFatalTranslationError.jsp
+END
+errorpageWrong.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/directives/page/errorpage/errorpageWrong.jsp
+END
+negativeIsErrorPage.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/directives/page/errorpage/negativeIsErrorPage.jsp
+END
+negativeDuplicateErrorPageFatalTranslationError.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/directives/page/errorpage/negativeDuplicateErrorPageFatalTranslationError.jsp
+END
+errorpageNoBuffXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/directives/page/errorpage/errorpageNoBuffXML.jsp
+END
+negativeNoErrorPageBuff.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/directives/page/errorpage/negativeNoErrorPageBuff.jsp
+END
+positiveErrorPage.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/directives/page/errorpage/positiveErrorPage.jsp
+END
+positiveDefaultIsErrorPage.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/directives/page/errorpage/positiveDefaultIsErrorPage.jsp
+END
+errorpagedefaultXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/directives/page/errorpage/errorpagedefaultXML.jsp
+END
+myerrorpageXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/directives/page/errorpage/myerrorpageXML.jsp
+END
+FatalTranslationErrorPage.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/directives/page/errorpage/FatalTranslationErrorPage.jsp
+END
+negativeFatalTranslationErrorXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/directives/page/errorpage/negativeFatalTranslationErrorXML.jsp
+END
+errorpageWrongXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/directives/page/errorpage/errorpageWrongXML.jsp
+END
+negativeIsErrorPageXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/directives/page/errorpage/negativeIsErrorPageXML.jsp
+END
+negativeDuplicateErrorPageFatalTranslationErrorXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/directives/page/errorpage/negativeDuplicateErrorPageFatalTranslationErrorXML.jsp
+END
+errorpageNoBuff.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/directives/page/errorpage/errorpageNoBuff.jsp
+END

@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/useBean
+END
+negativeNotFoundAbstractInstantiationExceptionXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/useBean/negativeNotFoundAbstractInstantiationExceptionXML.jsp
+END
+negativeDuplicateIDFatalTranslationError.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/useBean/negativeDuplicateIDFatalTranslationError.jsp
+END
+positiveSessionScopedObjectXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/useBean/positiveSessionScopedObjectXML.jsp
+END
+positiveNoBody.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/useBean/positiveNoBody.jsp
+END
+negativeNotFoundNoArgConstructorInstantiationExceptionXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/useBean/negativeNotFoundNoArgConstructorInstantiationExceptionXML.jsp
+END
+negativeClassCastException.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/useBean/negativeClassCastException.jsp
+END
+negativeSessionScopeFatalTranslationErrorXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/useBean/negativeSessionScopeFatalTranslationErrorXML.jsp
+END
+negativeNotFoundTypeInstantiationExceptionXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/useBean/negativeNotFoundTypeInstantiationExceptionXML.jsp
+END
+positiveBeanNameSerializedXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/useBean/positiveBeanNameSerializedXML.jsp
+END
+errorPage.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/useBean/errorPage.jsp
+END
+positiveBeanNameTypeCastXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/useBean/positiveBeanNameTypeCastXML.jsp
+END
+ScopeResultXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/useBean/ScopeResultXML.jsp
+END
+positiveBeanNameType.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/useBean/positiveBeanNameType.jsp
+END
+negativeDuplicateIDFatalTranslationErrorXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/useBean/negativeDuplicateIDFatalTranslationErrorXML.jsp
+END
+positiveNoBodyXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/useBean/positiveNoBodyXML.jsp
+END
+negativeNotFoundNoArgConstructorInstantiationException.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/useBean/negativeNotFoundNoArgConstructorInstantiationException.jsp
+END
+negativeNotFoundInterfaceInstantiationExceptionXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/useBean/negativeNotFoundInterfaceInstantiationExceptionXML.jsp
+END
+positiveClassTypeCast.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/useBean/positiveClassTypeCast.jsp
+END
+positivePageScopedObjectXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/useBean/positivePageScopedObjectXML.jsp
+END
+positiveBeanNameTypeCast.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/useBean/positiveBeanNameTypeCast.jsp
+END
+ScopeResult.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/useBean/ScopeResult.jsp
+END
+positiveBodyNewXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/useBean/positiveBodyNewXML.jsp
+END
+positiveApplicationScopedObject.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/useBean/positiveApplicationScopedObject.jsp
+END
+positiveBeanNameTypeXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/useBean/positiveBeanNameTypeXML.jsp
+END
+positiveRequestScopedObjectXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/useBean/positiveRequestScopedObjectXML.jsp
+END
+negativeClassCastExceptionFwd.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/useBean/negativeClassCastExceptionFwd.jsp
+END
+negativeNotFoundInterfaceInstantiationException.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/useBean/negativeNotFoundInterfaceInstantiationException.jsp
+END
+positivePageScopedObject.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/useBean/positivePageScopedObject.jsp
+END
+positiveClassTypeCastXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/useBean/positiveClassTypeCastXML.jsp
+END
+negativeNotFoundAbstractInstantiationException.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/useBean/negativeNotFoundAbstractInstantiationException.jsp
+END
+positiveBodyNew.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/useBean/positiveBodyNew.jsp
+END
+positiveSessionScopedObject.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/useBean/positiveSessionScopedObject.jsp
+END
+positiveApplicationScopedObjectXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/useBean/positiveApplicationScopedObjectXML.jsp
+END
+positiveRequestScopedObject.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/useBean/positiveRequestScopedObject.jsp
+END
+negativeSessionScopeFatalTranslationError.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/useBean/negativeSessionScopeFatalTranslationError.jsp
+END
+negativeClassCastExceptionXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/useBean/negativeClassCastExceptionXML.jsp
+END
+negativeClassCastExceptionFwdXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/useBean/negativeClassCastExceptionFwdXML.jsp
+END
+positiveBeanNameSerialized.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/useBean/positiveBeanNameSerialized.jsp
+END
+negativeNotFoundTypeInstantiationException.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/useBean/negativeNotFoundTypeInstantiationException.jsp
+END
+errorPageXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/useBean/errorPageXML.jsp
+END

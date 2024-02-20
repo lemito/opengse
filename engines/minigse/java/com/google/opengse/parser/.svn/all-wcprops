@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/parser
+END
+Callback.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/parser/Callback.java
+END
+Parser.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/parser/Parser.java
+END
+Action.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/parser/Action.java
+END
+Strcaselit.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/parser/Strcaselit.java
+END
+Alternative.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/parser/Alternative.java
+END
+Repeat.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/parser/Repeat.java
+END
+Intersection.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/parser/Intersection.java
+END
+Chset.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/parser/Chset.java
+END
+Sequence.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/parser/Sequence.java
+END
+Difference.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/parser/Difference.java
+END

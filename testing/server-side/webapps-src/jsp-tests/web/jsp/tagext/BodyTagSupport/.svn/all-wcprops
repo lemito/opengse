@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/tagext/BodyTagSupport
+END
+positiveDoAfterBody.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/tagext/BodyTagSupport/positiveDoAfterBody.jsp
+END
+positiveDoAfterBodyXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/tagext/BodyTagSupport/positiveDoAfterBodyXML.jsp
+END
+positiveDoInitBody.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/tagext/BodyTagSupport/positiveDoInitBody.jsp
+END
+positiveDoEndTag.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/tagext/BodyTagSupport/positiveDoEndTag.jsp
+END
+positiveDoInitBodyXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/tagext/BodyTagSupport/positiveDoInitBodyXML.jsp
+END
+positiveDoEndTagXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/tagext/BodyTagSupport/positiveDoEndTagXML.jsp
+END
+positiveLifeCycle.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/tagext/BodyTagSupport/positiveLifeCycle.jsp
+END
+positiveLifeCycleXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/tagext/BodyTagSupport/positiveLifeCycleXML.jsp
+END
+positiveRelease.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/tagext/BodyTagSupport/positiveRelease.jsp
+END
+positiveReleaseXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/tagext/BodyTagSupport/positiveReleaseXML.jsp
+END

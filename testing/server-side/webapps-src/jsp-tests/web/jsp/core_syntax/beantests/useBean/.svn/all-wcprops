@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/beantests/useBean
+END
+positiveDupIDPage1.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/beantests/useBean/positiveDupIDPage1.jsp
+END
+negativeTypeNonAssignable.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/beantests/useBean/negativeTypeNonAssignable.jsp
+END
+negativeDupIDXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/beantests/useBean/negativeDupIDXML.jsp
+END
+negativeBeanNameXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/beantests/useBean/negativeBeanNameXML.jsp
+END
+positiveBodyNewXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/beantests/useBean/positiveBodyNewXML.jsp
+END
+negativeDupIDSession1.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/beantests/useBean/negativeDupIDSession1.jsp
+END
+negativeNoBody.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/beantests/useBean/negativeNoBody.jsp
+END
+positiveTypeAssignableXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/beantests/useBean/positiveTypeAssignableXML.jsp
+END
+negativeDupIDSession2.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/beantests/useBean/negativeDupIDSession2.jsp
+END
+negativeInvalidClassXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/beantests/useBean/negativeInvalidClassXML.jsp
+END
+negativeBody.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/beantests/useBean/negativeBody.jsp
+END
+positiveDupIDRequest1.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/beantests/useBean/positiveDupIDRequest1.jsp
+END
+negativeDupID.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/beantests/useBean/negativeDupID.jsp
+END
+positivePageScope.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/beantests/useBean/positivePageScope.jsp
+END
+positiveBodyNew.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/beantests/useBean/positiveBodyNew.jsp
+END
+negativeDupIDSession1XML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/beantests/useBean/negativeDupIDSession1XML.jsp
+END
+negativeNoBodyXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/beantests/useBean/negativeNoBodyXML.jsp
+END
+positiveBodyExistsXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/beantests/useBean/positiveBodyExistsXML.jsp
+END
+positiveBeanNameRes.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/beantests/useBean/positiveBeanNameRes.jsp
+END
+errorPageXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/beantests/useBean/errorPageXML.jsp
+END
+positivePageScopeXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/beantests/useBean/positivePageScopeXML.jsp
+END
+positiveNoBody.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/beantests/useBean/positiveNoBody.jsp
+END
+positiveBeanNameClass.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/beantests/useBean/positiveBeanNameClass.jsp
+END
+positiveBodyExists.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/beantests/useBean/positiveBodyExists.jsp
+END
+positiveSessionScopeXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/beantests/useBean/positiveSessionScopeXML.jsp
+END
+positiveBeanNameResXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/beantests/useBean/positiveBeanNameResXML.jsp
+END
+errorPage.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/beantests/useBean/errorPage.jsp
+END
+positiveDupIDPage1XML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/beantests/useBean/positiveDupIDPage1XML.jsp
+END
+negativeBeanName.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/beantests/useBean/negativeBeanName.jsp
+END
+negativeTypeNonAssignableXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/beantests/useBean/negativeTypeNonAssignableXML.jsp
+END
+positiveTypeAssignable.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/beantests/useBean/positiveTypeAssignable.jsp
+END
+positiveNoBodyXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/beantests/useBean/positiveNoBodyXML.jsp
+END
+negativeDupIDSession2XML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/beantests/useBean/negativeDupIDSession2XML.jsp
+END
+negativeInvalidClass.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/beantests/useBean/negativeInvalidClass.jsp
+END
+positiveBeanNameClassXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/beantests/useBean/positiveBeanNameClassXML.jsp
+END
+positiveSessionScope.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/beantests/useBean/positiveSessionScope.jsp
+END
+negativeBodyXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/beantests/useBean/negativeBodyXML.jsp
+END
+positiveDupIDRequest1XML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/beantests/useBean/positiveDupIDRequest1XML.jsp
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/session/impl
+END
+ServletSessionCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/session/impl/ServletSessionCache.java
+END
+SessionCookie.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/session/impl/SessionCookie.java
+END
+HttpSessionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/session/impl/HttpSessionImpl.java
+END
+SessionIdGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/session/impl/SessionIdGenerator.java
+END
+SessionCookieParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/session/impl/SessionCookieParser.java
+END

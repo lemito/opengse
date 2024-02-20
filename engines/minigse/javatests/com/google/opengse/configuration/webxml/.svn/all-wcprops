@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/118/trunk/engines/minigse/javatests/com/google/opengse/configuration/webxml
+END
+WebXmlDumpTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/118/trunk/engines/minigse/javatests/com/google/opengse/configuration/webxml/WebXmlDumpTest.java
+END
+WebAppConfigurationCombinerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/118/trunk/engines/minigse/javatests/com/google/opengse/configuration/webxml/WebAppConfigurationCombinerTest.java
+END
+WebXmlTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/118/trunk/engines/minigse/javatests/com/google/opengse/configuration/webxml/WebXmlTestCase.java
+END
+WebAppConfigurationFactoryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/118/trunk/engines/minigse/javatests/com/google/opengse/configuration/webxml/WebAppConfigurationFactoryTest.java
+END
+XMLUtilTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/118/trunk/engines/minigse/javatests/com/google/opengse/configuration/webxml/XMLUtilTest.java
+END
+WebXmlParserImpl2Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/118/trunk/engines/minigse/javatests/com/google/opengse/configuration/webxml/WebXmlParserImpl2Test.java
+END

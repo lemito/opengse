@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/145/trunk/testing/client-side/java/com/google/opengse/golden
+END
+noSessionRequested.txt
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/145/trunk/testing/client-side/java/com/google/opengse/golden/noSessionRequested.txt
+END
+urimatch.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1/trunk/testing/client-side/java/com/google/opengse/golden/urimatch.txt
+END
+urimatchWithQuery.txt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1/trunk/testing/client-side/java/com/google/opengse/golden/urimatchWithQuery.txt
+END

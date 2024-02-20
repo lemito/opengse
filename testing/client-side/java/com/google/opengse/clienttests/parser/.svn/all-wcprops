@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/20/trunk/testing/client-side/java/com/google/opengse/clienttests/parser
+END
+Action.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/20/trunk/testing/client-side/java/com/google/opengse/clienttests/parser/Action.java
+END
+Strcaselit.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/20/trunk/testing/client-side/java/com/google/opengse/clienttests/parser/Strcaselit.java
+END
+Alternative.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/20/trunk/testing/client-side/java/com/google/opengse/clienttests/parser/Alternative.java
+END
+Repeat.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/20/trunk/testing/client-side/java/com/google/opengse/clienttests/parser/Repeat.java
+END
+Intersection.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/20/trunk/testing/client-side/java/com/google/opengse/clienttests/parser/Intersection.java
+END
+Chset.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/20/trunk/testing/client-side/java/com/google/opengse/clienttests/parser/Chset.java
+END
+Sequence.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/20/trunk/testing/client-side/java/com/google/opengse/clienttests/parser/Sequence.java
+END
+Difference.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/20/trunk/testing/client-side/java/com/google/opengse/clienttests/parser/Difference.java
+END
+Callback.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/20/trunk/testing/client-side/java/com/google/opengse/clienttests/parser/Callback.java
+END
+Parser.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/20/trunk/testing/client-side/java/com/google/opengse/clienttests/parser/Parser.java
+END

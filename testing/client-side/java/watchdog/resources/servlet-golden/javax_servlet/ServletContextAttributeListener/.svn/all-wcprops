@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet/ServletContextAttributeListener
+END
+ServletContextAttributeReplacedTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet/ServletContextAttributeListener/ServletContextAttributeReplacedTest.html
+END
+ServletContextAttributeAddedTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet/ServletContextAttributeListener/ServletContextAttributeAddedTest.html
+END
+ServletContextAttributeRemovedTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/servlet-golden/javax_servlet/ServletContextAttributeListener/ServletContextAttributeRemovedTest.html
+END

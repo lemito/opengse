@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/configuration/impl
+END
+MutableWebappFilterMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/configuration/impl/MutableWebappFilterMapping.java
+END
+MutableWebAppWebResourceCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/configuration/impl/MutableWebAppWebResourceCollection.java
+END
+MutableWebAppTagLib.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/configuration/impl/MutableWebAppTagLib.java
+END
+MutableWebAppMimeMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/configuration/impl/MutableWebAppMimeMapping.java
+END
+MutableWebAppContextParam.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/configuration/impl/MutableWebAppContextParam.java
+END
+HasDescription.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/configuration/impl/HasDescription.java
+END
+MutableWebAppAuthConstraint.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/configuration/impl/MutableWebAppAuthConstraint.java
+END
+MutableWebAppConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/configuration/impl/MutableWebAppConfiguration.java
+END
+MutableWebAppEjbLocalRef.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/configuration/impl/MutableWebAppEjbLocalRef.java
+END
+MutableWebAppSessionConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/configuration/impl/MutableWebAppSessionConfig.java
+END
+MutableWebAppEnvEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/configuration/impl/MutableWebAppEnvEntry.java
+END
+MutableWebAppSecurityConstraint.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/configuration/impl/MutableWebAppSecurityConstraint.java
+END
+MutableWebAppUserDataConstraint.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/configuration/impl/MutableWebAppUserDataConstraint.java
+END
+MutableWebAppFormLoginConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/configuration/impl/MutableWebAppFormLoginConfig.java
+END
+MutableWebAppServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/configuration/impl/MutableWebAppServlet.java
+END
+MutableWebAppResourceRef.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/configuration/impl/MutableWebAppResourceRef.java
+END
+MutableWebAppInitParam.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/configuration/impl/MutableWebAppInitParam.java
+END
+MutableWebAppFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/configuration/impl/MutableWebAppFilter.java
+END
+MutableWebAppListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/configuration/impl/MutableWebAppListener.java
+END
+MutableWebappSecurityRoleRef.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/configuration/impl/MutableWebappSecurityRoleRef.java
+END
+MutableWebAppErrorPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/configuration/impl/MutableWebAppErrorPage.java
+END
+MutableWebAppWelcomeFileList.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/configuration/impl/MutableWebAppWelcomeFileList.java
+END
+MutableWebappIcon.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/configuration/impl/MutableWebappIcon.java
+END
+MutableWebAppRunAs.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/configuration/impl/MutableWebAppRunAs.java
+END
+MutableWebAppSecurityRole.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/configuration/impl/MutableWebAppSecurityRole.java
+END
+MutableWebAppEjbRef.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/configuration/impl/MutableWebAppEjbRef.java
+END
+MutableWebAppResourceEnvRef.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/configuration/impl/MutableWebAppResourceEnvRef.java
+END
+MutableWebAppLoginConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/configuration/impl/MutableWebAppLoginConfig.java
+END
+MutableWebAppServletMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/configuration/impl/MutableWebAppServletMapping.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/directives/page/content
+END
+negativeDuplicateContentFatalTranslationError.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/directives/page/content/negativeDuplicateContentFatalTranslationError.jsp
+END
+negativeDuplicateContentFatalTranslationErrorXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/directives/page/content/negativeDuplicateContentFatalTranslationErrorXML.jsp
+END
+positiveContenttype.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/directives/page/content/positiveContenttype.jsp
+END
+positiveContenttypeXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/directives/page/content/positiveContenttypeXML.jsp
+END

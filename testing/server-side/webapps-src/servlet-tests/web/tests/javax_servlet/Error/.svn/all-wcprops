@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/tests/javax_servlet/Error
+END
+HTMLErrorPage.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/tests/javax_servlet/Error/HTMLErrorPage.html
+END
+JSPErrorPage.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/tests/javax_servlet/Error/JSPErrorPage.jsp
+END

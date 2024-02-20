@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/httputil
+END
+CookieUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/httputil/CookieUtil.java
+END
+AcceptHeader.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/httputil/AcceptHeader.java
+END
+MimeContentHeader.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/httputil/MimeContentHeader.java
+END
+FormUrlDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/httputil/FormUrlDecoder.java
+END
+Cookies.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/httputil/Cookies.java
+END
+Range.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/httputil/Range.java
+END
+ResponseUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/httputil/ResponseUtil.java
+END
+ContentType.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/httputil/ContentType.java
+END
+HttpUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/httputil/HttpUtil.java
+END
+ParamMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/httputil/ParamMap.java
+END
+ContentDisposition.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/httputil/ContentDisposition.java
+END
+FastURLEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/httputil/FastURLEncoder.java
+END
+ChunkHeader.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/httputil/ChunkHeader.java
+END
+Locales.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/httputil/Locales.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/jndi
+END
+DefaultFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/jndi/DefaultFactory.java
+END
+GseInitialContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/jndi/GseInitialContext.java
+END
+UnsupportedContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/jndi/UnsupportedContext.java
+END
+GseInitialContextFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/jndi/GseInitialContextFactory.java
+END
+Factory.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/jndi/Factory.java
+END
+JNDIMain.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/jndi/JNDIMain.java
+END

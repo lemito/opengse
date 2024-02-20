@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/engine/JspFactory
+END
+positiveGetDefaultFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/engine/JspFactory/positiveGetDefaultFactory.html
+END
+positiveGetPageContext.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/engine/JspFactory/positiveGetPageContext.html
+END
+positiveReleasePageContext.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/engine/JspFactory/positiveReleasePageContext.html
+END
+positiveSetDefaultFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/1/trunk/testing/client-side/java/watchdog/resources/jsp-golden/engine/JspFactory/positiveSetDefaultFactory.html
+END

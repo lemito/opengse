@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/180/trunk/transports/blocking/java/com/google/opengse/blockingcore
+END
+AcceptSocketAndHandleRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/58/trunk/transports/blocking/java/com/google/opengse/blockingcore/AcceptSocketAndHandleRequest.java
+END
+HttpResponseImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/79/trunk/transports/blocking/java/com/google/opengse/blockingcore/HttpResponseImpl.java
+END
+RequestMetaDataFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/76/trunk/transports/blocking/java/com/google/opengse/blockingcore/RequestMetaDataFactory.java
+END
+BlockingServletEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/179/trunk/transports/blocking/java/com/google/opengse/blockingcore/BlockingServletEngine.java
+END
+HttpSocketHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/82/trunk/transports/blocking/java/com/google/opengse/blockingcore/HttpSocketHandler.java
+END
+SocketHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/40/trunk/transports/blocking/java/com/google/opengse/blockingcore/SocketHandler.java
+END
+NoBodyOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/82/trunk/transports/blocking/java/com/google/opengse/blockingcore/NoBodyOutputStream.java
+END
+RequestMetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/77/trunk/transports/blocking/java/com/google/opengse/blockingcore/RequestMetaData.java
+END
+HttpRequestType.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/180/trunk/transports/blocking/java/com/google/opengse/blockingcore/HttpRequestType.java
+END
+ServletInputStreamImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/72/trunk/transports/blocking/java/com/google/opengse/blockingcore/ServletInputStreamImpl.java
+END
+BlockingServletEngineFactoryFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/40/trunk/transports/blocking/java/com/google/opengse/blockingcore/BlockingServletEngineFactoryFactory.java
+END
+ServletOutputStreamImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/70/trunk/transports/blocking/java/com/google/opengse/blockingcore/ServletOutputStreamImpl.java
+END
+RequestURI.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/84/trunk/transports/blocking/java/com/google/opengse/blockingcore/RequestURI.java
+END
+HttpRequestImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/85/trunk/transports/blocking/java/com/google/opengse/blockingcore/HttpRequestImpl.java
+END
+HttpHeaders.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/80/trunk/transports/blocking/java/com/google/opengse/blockingcore/HttpHeaders.java
+END
+BlockingServletEngineFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/40/trunk/transports/blocking/java/com/google/opengse/blockingcore/BlockingServletEngineFactory.java
+END

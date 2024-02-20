@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/WEB-INF/tlds
+END
+TestLib.tld
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/WEB-INF/tlds/TestLib.tld
+END
+example-taglib.tld
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/WEB-INF/tlds/example-taglib.tld
+END

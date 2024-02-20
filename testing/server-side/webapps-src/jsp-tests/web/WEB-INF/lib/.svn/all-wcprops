@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/WEB-INF/lib
+END
+tld_uri.jar
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/WEB-INF/lib/tld_uri.jar
+END
+propertybean.jar
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/WEB-INF/lib/propertybean.jar
+END
+tld_resource.jar
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/WEB-INF/lib/tld_resource.jar
+END

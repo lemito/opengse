@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/129/trunk/engines/minigse/java/com/google/opengse/handlers
+END
+TemporarilyUnavailableHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/129/trunk/engines/minigse/java/com/google/opengse/handlers/TemporarilyUnavailableHandler.java
+END
+NotFoundHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/handlers/NotFoundHandler.java
+END
+PermanentlyUnavailableHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/129/trunk/engines/minigse/java/com/google/opengse/handlers/PermanentlyUnavailableHandler.java
+END

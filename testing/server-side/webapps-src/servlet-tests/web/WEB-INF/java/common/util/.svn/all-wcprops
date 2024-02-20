@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/136/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/common/util
+END
+HttpSessionEventLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/common/util/HttpSessionEventLog.java
+END
+StaticLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/136/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/common/util/StaticLog.java
+END
+HttpSessionListenerLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/servlet-tests/web/WEB-INF/java/common/util/HttpSessionListenerLog.java
+END

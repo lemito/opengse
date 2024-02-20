@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/185/trunk/engines/minigse/java/com/google/opengse
+END
+ServletEngineConfigurationImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/179/trunk/engines/minigse/java/com/google/opengse/ServletEngineConfigurationImpl.java
+END
+HeaderUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/HeaderUtil.java
+END
+HttpRequestHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/HttpRequestHandler.java
+END
+HttpRequestHandlerAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/HttpRequestHandlerAdapter.java
+END
+HttpRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/HttpRequest.java
+END
+ThreadSafeCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/ThreadSafeCache.java
+END
+HttpResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/HttpResponse.java
+END
+HttpServletRequestAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/HttpServletRequestAdapter.java
+END
+ServletEngineConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/179/trunk/engines/minigse/java/com/google/opengse/ServletEngineConfiguration.java
+END
+ServletEngineFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/ServletEngineFactory.java
+END
+HttpServletResponseAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/HttpServletResponseAdapter.java
+END
+ConnectionInformation.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/ConnectionInformation.java
+END
+ServletUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/ServletUtils.java
+END
+HttpServletRequestUnsupported.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/HttpServletRequestUnsupported.java
+END
+CacheListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/CacheListener.java
+END
+RequestUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/RequestUtils.java
+END
+ServletEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/ServletEngine.java
+END
+GSEConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/GSEConstants.java
+END
+HttpServletResponseUnsupported.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/117/trunk/engines/minigse/java/com/google/opengse/HttpServletResponseUnsupported.java
+END

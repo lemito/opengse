@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/include
+END
+positiveIncludePageRelativeHtml.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/include/positiveIncludePageRelativeHtml.jsp
+END
+positiveIncludeCtxRelativeHtmlXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/include/positiveIncludeCtxRelativeHtmlXML.jsp
+END
+includecommon.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/include/includecommon.jsp
+END
+positiveRequestAttrPageRelative.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/include/positiveRequestAttrPageRelative.jsp
+END
+positiveIncludePageRelative.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/include/positiveIncludePageRelative.jsp
+END
+positiveRequestAttrCtxRelativeXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/include/positiveRequestAttrCtxRelativeXML.jsp
+END
+positiveIncludeCtxRelativeXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/include/positiveIncludeCtxRelativeXML.jsp
+END
+includecommon.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/include/includecommon.html
+END
+positiveIncludePageRelativeHtmlXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/include/positiveIncludePageRelativeHtmlXML.jsp
+END
+positiveIncludeCtxRelativeHtml.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/include/positiveIncludeCtxRelativeHtml.jsp
+END
+includecommonXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/include/includecommonXML.jsp
+END
+positiveIncludePageRelativeXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/include/positiveIncludePageRelativeXML.jsp
+END
+positiveRequestAttrPageRelativeXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/include/positiveRequestAttrPageRelativeXML.jsp
+END
+positiveIncludeCtxRelative.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/include/positiveIncludeCtxRelative.jsp
+END
+positiveRequestAttrCtxRelative.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/actions/include/positiveRequestAttrCtxRelative.jsp
+END

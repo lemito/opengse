@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/WEB-INF/java/core_syntax/actions/setProperty
+END
+MiscBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/WEB-INF/java/core_syntax/actions/setProperty/MiscBean.java
+END
+SetpropBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/WEB-INF/java/core_syntax/actions/setProperty/SetpropBean.java
+END
+PStringPropertyEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/WEB-INF/java/core_syntax/actions/setProperty/PStringPropertyEditor.java
+END
+PIntegerPropertyEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/WEB-INF/java/core_syntax/actions/setProperty/PIntegerPropertyEditor.java
+END
+PropertyBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/WEB-INF/java/core_syntax/actions/setProperty/PropertyBean.java
+END
+PBooleanPropertyEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/WEB-INF/java/core_syntax/actions/setProperty/PBooleanPropertyEditor.java
+END
+PropertyBeanBeanInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/WEB-INF/java/core_syntax/actions/setProperty/PropertyBeanBeanInfo.java
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/WEB-INF/java/core_syntax/actions/useBean
+END
+String_IntBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/WEB-INF/java/core_syntax/actions/useBean/String_IntBean.java
+END
+InterfaceBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/WEB-INF/java/core_syntax/actions/useBean/InterfaceBean.java
+END
+OneArgConstructorBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/WEB-INF/java/core_syntax/actions/useBean/OneArgConstructorBean.java
+END
+Counter.ser
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/WEB-INF/java/core_syntax/actions/useBean/Counter.ser
+END
+NewCounter.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/WEB-INF/java/core_syntax/actions/useBean/NewCounter.java
+END
+AbstractBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/WEB-INF/java/core_syntax/actions/useBean/AbstractBean.java
+END
+Counter.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/WEB-INF/java/core_syntax/actions/useBean/Counter.java
+END

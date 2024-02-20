@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/directives/page/buffer
+END
+errorpage.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/directives/page/buffer/errorpage.jsp
+END
+errorpageXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/directives/page/buffer/errorpageXML.jsp
+END
+negativeDuplicateBufferFatalTranslationError.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/directives/page/buffer/negativeDuplicateBufferFatalTranslationError.jsp
+END
+negativeBuffOverflow.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/directives/page/buffer/negativeBuffOverflow.jsp
+END
+negativeDuplicateBufferFatalTranslationErrorXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/directives/page/buffer/negativeDuplicateBufferFatalTranslationErrorXML.jsp
+END
+positiveBuffCreate.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/directives/page/buffer/positiveBuffCreate.jsp
+END
+negativeBuffOverflowXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/directives/page/buffer/negativeBuffOverflowXML.jsp
+END
+positiveBuffCreateXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/directives/page/buffer/positiveBuffCreateXML.jsp
+END
+negativeBufferOverflowException.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/directives/page/buffer/negativeBufferOverflowException.jsp
+END
+negativeBufferOverflowExceptionXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/directives/page/buffer/negativeBufferOverflowExceptionXML.jsp
+END
+positiveBuffAutoflush.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/directives/page/buffer/positiveBuffAutoflush.jsp
+END
+positiveBuffAutoflushXML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/1/trunk/testing/server-side/webapps-src/jsp-tests/web/jsp/core_syntax/directives/page/buffer/positiveBuffAutoflushXML.jsp
+END
